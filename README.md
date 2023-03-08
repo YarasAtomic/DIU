@@ -15,7 +15,7 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:  @pabloqr
+ * :bust_in_silhouette:  [@pabloqr] (https://github.com/pabloqr)
  * :bust_in_silhouette:  @MissK0u
  * :bust_in_silhouette:  @YarasAtomic
 
