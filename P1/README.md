@@ -6,6 +6,7 @@ La página visualmente puede resultar agradable, pero no es una buena web de nav
 Por otro lado, el proceso de reserva es confuso, dependiendo de dónde se acceda a la reserva redirige a una página o a otra, estando las opciones mal agrupadas.
 
 <img src="empathy_map.png">
+<img src="empathy_customer_map.png">
 
 ### Desk research: Análisis Competencia
 
