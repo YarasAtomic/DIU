@@ -5,7 +5,7 @@
 La página visualmente puede resultar agradable, pero no es una buena web de navegación: los tours están muy desordenados y no es sencillo encontrar el ideal.
 Por otro lado, el proceso de reserva es confuso, dependiendo de dónde se acceda a la reserva redirige a una página o a otra, estando las opciones mal agrupadas.
 
-<!-- <img src="empathy_map.png"> -->
+<img src="empathy_map.png">
 
 ### Desk research: Análisis Competencia
 
@@ -35,15 +35,21 @@ Sin embargo, es extranjero y además conoce poco el idioma, por tanto necesita u
 De este modo, en su caso, el Journey Map se centra en el proceso de reserva y en el hecho de que, por norma general, las personas más mayores no quieren complicaciones e ir lo más directas posible por su desconocimiento de las tecnologías (quiere realizar el proceso porque así aprende, pero quiere hacerlo rápido porque es incómodo).
 Por esta razón, el hecho de presentar varias opciones (múltiples tours con la misma temática) o de no disponer de métodos de acción (por ejemplo el pago) ya conocidos por el usuario empeoran la experiencia.
 
+<img src="journey_map_1.jpeg">
+
 ##### <ins>Victor García</ins>
 
 En este caso, el journey map no es especialmente negativo, ya que tenemos una persona que al ser más joven y al realizar una tarea sencilla tiene menos dificultades.
 Aún así no es especialmente hábil lo que causa que tenga algunos problemas mínimos.
 
+<img src="journey_map_2.jpeg">
+
 ##### <ins>Vincent Matcher</ins>
 
 Al conocer previamente los procesos de reserva por cómo se realizan en otras páginas, su Journey Map se centra sobre todo en el proceso de elección de un tour que se adapte a sus necesidades.
 Esto provoca dos conflictos: que la selección de un tour es complicado al no poder contar con criterios de búsqueda de un tour y que además el idioma en inglés no es correcto.
+
+<img src="journey_map_3.jpeg">
 
 ## Revisión de Usabilidad
 
