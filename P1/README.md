@@ -11,6 +11,8 @@ Por otro lado, el proceso de reserva es confuso, dependiendo de dónde se acceda
 
 Hemos elegido **Civitatis** por ser la opción más completa. Tiene bastantes filtros a la hora de buscar un tour, puedes cambiar la moneda y el idioma en cualquier momento y además hay diversas posibilidades de pago. Otro aspecto importante es que puedes crear un usuario para que todo este proceso de reserva sea más sencillo.
 
+<img src="competitor_analysis.png">
+
 ### Personas
 
 ##### <ins>Teresa Ferrero</ins>
@@ -19,14 +21,20 @@ Se trata de un usuario cada vez más común: una persona jubilada que comienza a
 Además, al no trabajar tiene la posibilidad de viajar con más facilidad.
 Por contra, algunos de los problemas de la página web puede que no se hagan evidentes para ella debido a su inexperiencia.
 
+<img src="persona_1.png">
+
 ##### <ins>Victor García</ins>
 
 Es un usuario más común de la aplicación: no es de la zona, pero conoce el idioma; no es especialmente hábil para manejarse con la tecnología; y busca que sea rápido y sencillo.
+
+<img src="persona_2.png">
 
 ##### <ins>Vincent Matcher</ins>
 
 Esta es una persona con algo de conocimiento previo en hacer compras por internet, entonces su proceso de reserva no es muy negativo al ya haberlo hecho más de una vez.
 Sin embargo, es extranjero y además conoce poco el idioma, por tanto necesita un poco más de ayuda a la hora de escoger un tour.
+
+<img src="persona_3.png">
 
 #### User Journey Map  (1 por persona)
 
