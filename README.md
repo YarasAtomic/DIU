@@ -18,7 +18,7 @@ Miembros
  * :bust_in_silhouette:  Paulina Sedano Motoya [@MissK0u](https://github.com/MissK0u)
  * :bust_in_silhouette:  Guillermo Medialdea Burgos [@YarasAtomic](https://github.com/YarasAtomic)
 
------
+---
 
 # Proceso de Diseño 
 
@@ -41,7 +41,8 @@ Es una mujer jubilada que le encanta pasar tiempo con su familia y prefiere dedi
 Junto con su marido, realizan viajes por España para conocer la riqueza del país.
 
 <img src="P1/persona_1.png">
------
+
+---
 
 #### Victor García
 
@@ -49,7 +50,8 @@ Se trata de un joven que le gusta disfrutar en la naturaleza, pero que está can
 Por esta razón, quiere aprovechar para hacer una escapada con su pareja.
 
 <img src="P1/persona_2.png">
------
+
+---
 
 #### Vincent Matcher
 
@@ -57,7 +59,8 @@ Es un turista inglés de mediana edad, con una vida ya asentada junto a su mujer
 Está totalmente dedicado a su trabajo y, por ello, viaja a España para desconectar y reconciliarse con su familia.
 
 <img src="P1/persona_3.png">
------
+
+---
 
 ### ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 
@@ -69,7 +72,8 @@ Su caso es el de una mujer más mayor con pocos conocimientos sobre tecnología 
 Por este motivo, su objetivo al realizar la reserva es finalizarla lo más rápido posible y con las etapas lo más claras posible.
 
 <img src="P1/journey_map_1.jpeg">
------
+
+---
 
 #### Victor García
 
@@ -77,7 +81,8 @@ Aunque su conocimiento acerca de tecnologías bajo no represente un perfil tan c
 Como turista nacional, su objetivo a la hora de realizar la reserva es poder hacerla fácilmente y poder informarse detalladamente acerca del tour.
 
 <img src="P1/journey_map_2.jpeg">
------
+
+---
 
 #### Vincent Matcher
 
@@ -85,7 +90,8 @@ Este sí es un caso muy común, un turista extranjero que busca realizar una act
 De este modo, su objetivo es poder realizar el proceso en su idioma nativo y conocer fácilmente a la ubicación del tour.
 
 <img src="P1/journey_map_3.jpeg">
------
+
+---
 
 ### ![Método UX](img/usabilityReview.png) 1.d Usability Review
 
@@ -107,13 +113,13 @@ En resumen, la página puede presentar algunos puntos positivos, sin embargo, la
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
------
+---
 
 ## Paso 2. UX Design  
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
------
+---
 
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
