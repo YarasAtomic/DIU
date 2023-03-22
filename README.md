@@ -15,8 +15,9 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  [Pablo Quesada Rojo](https://github.com/pabloqr)
+ * :bust_in_silhouette:  [Paulina Sedano Motoya](https://github.com/MissK0u)
+ * :bust_in_silhouette:  [Guillermo Medialdea Burgos](https://github.com/YarasAtomic)
 
 ----- 
 
