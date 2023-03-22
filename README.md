@@ -1,65 +1,119 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Free Tour) 
 
-Grupo: DIU1_01AABB.  Curso: 2022/23 
-Updated: 11/1/2023
+Grupo: DIU2.Dunno.  Curso: 2022/23 
+Updated: 22/03/2023
 
-Proyecto: 
+Proyecto:
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
-Descripción: 
-
+Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
-Logotipo: 
+Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:  [Pablo Quesada Rojo](https://github.com/pabloqr)
- * :bust_in_silhouette:  [Paulina Sedano Motoya](https://github.com/MissK0u)
- * :bust_in_silhouette:  [Guillermo Medialdea Burgos](https://github.com/YarasAtomic)
+ * :bust_in_silhouette:  Pablo Quesada Rojo [@pabloqr](https://github.com/pabloqr)
+ * :bust_in_silhouette:  Paulina Sedano Motoya [@MissK0u](https://github.com/MissK0u)
+ * :bust_in_silhouette:  Guillermo Medialdea Burgos [@YarasAtomic](https://github.com/YarasAtomic)
 
------ 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
+-----
 
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+### ![Método UX](img/Competitive.png) 1.a Competitive Analysis
+
+Comparamos la web proporcionada [Free Tour Granada](https://freetour-granada.com/) con:
+- [Granada Tours](https://granadatours.com.es/): se trata de una opción que, como la proporcionada es mejorable en algunos de sus aspectos.
+- [Yoorney - Granada](https://toursgratis.com/granada): se trata de una opción algo mejor que la proporcionada, pero que también tiene algunos aspectos mejorables.
+- [Civitatis - Granada](https://www.civitatis.com/es/granada/): se trata de una opción mucho mejor que la proporcionada, con muchas más opciones y una funcionalidad mejor implementada.
+
+### ![Método UX](img/Persona.png) 1.b Persona
+
+Se han creado diferentes perfiles de persona, lo que permite analizar con una mayor profundidad la funcionalidad de la web.
+
+#### Teresa Ferrero
+
+Es una mujer jubilada que le encanta pasar tiempo con su familia y prefiere dedicar su tiempo libre a seguir aprendiendo.
+Junto con su marido, realizan viajes por España para conocer la riqueza del país.
+
+<img src="P1/persona_1.png">
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+#### Victor García
 
-![Método UX](img/Persona.png) 1.b Persona
+Se trata de un joven que le gusta disfrutar en la naturaleza, pero que está cansado de su trabajo.
+Por esta razón, quiere aprovechar para hacer una escapada con su pareja.
+
+<img src="P1/persona_2.png">
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+#### Vincent Matcher
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
+Es un turista inglés de mediana edad, con una vida ya asentada junto a su mujer y sus hijos.
+Está totalmente dedicado a su trabajo y, por ello, viaja a España para desconectar y reconciliarse con su familia.
+
+<img src="P1/persona_3.png">
+-----
+
+### ![Método UX](img/JourneyMap.png) 1.c User Journey Map
+
+En las historias de usuario se han tratado casos prototípicos según los perfiles de las personas creadas.
+
+#### Teresa Ferrero
+
+Su caso es el de una mujer más mayor con pocos conocimientos sobre tecnología pero que se atreve a investigar y probar.
+Por este motivo, su objetivo al realizar la reserva es finalizarla lo más rápido posible y con las etapas lo más claras posible.
+
+<img src="P1/journey_map_1.jpeg">
+-----
+
+#### Victor García
+
+Aunque su conocimiento acerca de tecnologías bajo no represente un perfil tan común, sí que lo es el hecho de ser una persona que le gusta aventurarse y conocedora del lenguaje.
+Como turista nacional, su objetivo a la hora de realizar la reserva es poder hacerla fácilmente y poder informarse detalladamente acerca del tour.
+
+<img src="P1/journey_map_2.jpeg">
+-----
+
+#### Vincent Matcher
+
+Este sí es un caso muy común, un turista extranjero que busca realizar una actividad cultural en la ciudad.
+De este modo, su objetivo es poder realizar el proceso en su idioma nativo y conocer fácilmente a la ubicación del tour.
+
+<img src="P1/journey_map_3.jpeg">
+-----
+
+### ![Método UX](img/usabilityReview.png) 1.d Usability Review
+
+En nuestro análisis, la web obtiene una puntuación de **58 - Moderate**, que se puede consultar en el [PDF](P1/usability_review_general.pdf) donde se incluyen comentarios a las valoraciones.
+
+La página no presenta una estructura bien definida, lo que hace que encontrar el elemento deseado sea más complejo.
+A esto se suma el hecho de que no incluye un buscador o un filtro para los tours y poder agruparlos según su precio, temática…
+
+Por otro lado, el menú tiene pocas opciones y no es muy intuitivo: tiene etiquetas con nombres no muy significativos y no permite ubicarse correctamente dentro de la página.
+
+Pese a ello, el aspecto visual es correcto y el botón de contacto es bastante visible e intuitivo (símbolo de WhatsApp).
+
+En resumen, la página puede presentar algunos puntos positivos, sin embargo, la gran cantidad de errores de diseño y complicación de los procesos que realiza el usuario hacen que la experiencia se vea muy perjudicada.
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
-
-![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+-----
 
 ## Paso 2. UX Design  
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
-----
+-----
 
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
