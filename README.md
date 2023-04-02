@@ -40,7 +40,7 @@ Se han creado diferentes perfiles de persona, lo que permite analizar con una ma
 Es una mujer jubilada que le encanta pasar tiempo con su familia y prefiere dedicar su tiempo libre a seguir aprendiendo.
 Junto con su marido, realizan viajes por España para conocer la riqueza del país.
 
-<img src="P1/persona_1.png">
+<!-- img src="P1/persona_1.png" -->
 
 ---
 
@@ -49,7 +49,7 @@ Junto con su marido, realizan viajes por España para conocer la riqueza del pa�
 Se trata de un joven que le gusta disfrutar en la naturaleza, pero que está cansado de su trabajo.
 Por esta razón, quiere aprovechar para hacer una escapada con su pareja.
 
-<img src="P1/persona_2.png">
+<!-- img src="P1/persona_2.png" -->
 
 ---
 
@@ -58,7 +58,7 @@ Por esta razón, quiere aprovechar para hacer una escapada con su pareja.
 Es un turista inglés de mediana edad, con una vida ya asentada junto a su mujer y sus hijos.
 Está totalmente dedicado a su trabajo y, por ello, viaja a España para desconectar y reconciliarse con su familia.
 
-<img src="P1/persona_3.png">
+<!-- img src="P1/persona_3.png" -->
 
 ---
 
@@ -71,7 +71,7 @@ En las historias de usuario se han tratado casos prototípicos según los perfil
 Su caso es el de una mujer más mayor con pocos conocimientos sobre tecnología pero que se atreve a investigar y probar.
 Por este motivo, su objetivo al realizar la reserva es finalizarla lo más rápido posible y con las etapas lo más claras posible.
 
-<img src="P1/journey_map_1.jpeg">
+<!-- img src="P1/journey_map_1.jpeg" -->
 
 ---
 
@@ -80,7 +80,7 @@ Por este motivo, su objetivo al realizar la reserva es finalizarla lo más rápi
 Aunque su conocimiento acerca de tecnologías bajo no represente un perfil tan común, sí que lo es el hecho de ser una persona que le gusta aventurarse y conocedora del lenguaje.
 Como turista nacional, su objetivo a la hora de realizar la reserva es poder hacerla fácilmente y poder informarse detalladamente acerca del tour.
 
-<img src="P1/journey_map_2.jpeg">
+<!-- img src="P1/journey_map_2.jpeg" -->
 
 ---
 
@@ -89,7 +89,7 @@ Como turista nacional, su objetivo a la hora de realizar la reserva es poder hac
 Este sí es un caso muy común, un turista extranjero que busca realizar una actividad cultural en la ciudad.
 De este modo, su objetivo es poder realizar el proceso en su idioma nativo y conocer fácilmente a la ubicación del tour.
 
-<img src="P1/journey_map_3.jpeg">
+<!-- img src="P1/journey_map_3.jpeg" -->
 
 ---
 
@@ -105,13 +105,6 @@ Por otro lado, el menú tiene pocas opciones y no es muy intuitivo: tiene etique
 Pese a ello, el aspecto visual es correcto y el botón de contacto es bastante visible e intuitivo (símbolo de WhatsApp).
 
 En resumen, la página puede presentar algunos puntos positivos, sin embargo, la gran cantidad de errores de diseño y complicación de los procesos que realiza el usuario hacen que la experiencia se vea muy perjudicada.
-
-
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 ---
 
