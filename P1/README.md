@@ -62,6 +62,8 @@ Esto provoca dos conflictos: que la selección de un tour es complicado al no po
 
 ## Revisión de Usabilidad
 
+En nuestro análisis, la web obtiene una puntuación de **58 - Moderate**, que se puede consultar en el [PDF](P1/usability_review_general.pdf) donde se incluyen comentarios a las valoraciones.
+
 La página no presenta una estructura bien definida, lo que hace que encontrar el elemento deseado sea más complejo.
 A esto se suma el hecho de que no incluye un buscador o un filtro para los tours y poder agruparlos según su precio, temática…
 
@@ -70,4 +72,3 @@ Por otro lado, el menú tiene pocas opciones y no es muy intuitivo: tiene etique
 Pese a ello, el aspecto visual es correcto y el botón de contacto es bastante visible e intuitivo (símbolo de WhatsApp).
 
 En resumen, la página puede presentar algunos puntos positivos, sin embargo, la gran cantidad de errores de diseño y complicación de los procesos que realiza el usuario hacen que la experiencia se vea muy perjudicada.
-
