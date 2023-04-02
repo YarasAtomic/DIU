@@ -32,7 +32,7 @@ Es un usuario más común de la aplicación: no es de la zona, pero conoce el id
 
 ##### <ins>Vincent Matcher</ins>
 
-Esta es una persona con algo de conocimiento previo en hacer compras por internet, entonces su proceso de reserva no es muy negativo al ya haberlo hecho más de una vez.
+Esta es una persona con algo de conocimiento previo en internet, entonces su proceso de reserva no es muy negativo al ya haberlo hecho más de una vez.
 Sin embargo, es extranjero y además conoce poco el idioma, por tanto necesita un poco más de ayuda a la hora de escoger un tour.
 
 <img src="persona_3.png">
