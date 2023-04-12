@@ -28,7 +28,7 @@ Por contra, algunos de los problemas de la página web puede que no se hagan evi
 
 Es un usuario más común de la aplicación: no es de la zona, pero conoce el idioma; no es especialmente hábil para manejarse con la tecnología; y busca que sea rápido y sencillo.
 
-<img src="persona_2.png">
+<img src="persona_.png">
 
 ##### <ins>Vincent Matcher</ins>
 
