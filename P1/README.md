@@ -64,11 +64,16 @@ Esto provoca dos conflictos: que la selección de un tour es complicado al no po
 
 En nuestro análisis, la web obtiene una puntuación de **58 - Moderate**, que se puede consultar en el [PDF](P1/usability_review_general.pdf) donde se incluyen comentarios a las valoraciones.
 
-La página no presenta una estructura bien definida, lo que hace que encontrar el elemento deseado sea más complejo.
-A esto se suma el hecho de que no incluye un buscador o un filtro para los tours y poder agruparlos según su precio, temática…
+En primer lugar y, aunque no recibe una valoración positiva, la página web sí que cumple con el objetivo general de un usuario: realizar una reserva para un tour conociendo los detalles del mismo.
+Sin embargo, el principal problema reside en el proceso para realizarlo y la experiencia de navegación por la web.
 
-Por otro lado, el menú tiene pocas opciones y no es muy intuitivo: tiene etiquetas con nombres no muy significativos y no permite ubicarse correctamente dentro de la página.
+El primer problema que surge al acceder es que la página no presenta una estructura bien definida: los tours se presentan sin un orden claro y pueden aparecer varias veces, lo que hace que encontrar el elemento deseado sea más complejo.
+A esto se suma el hecho de que no incluye un buscador o un filtro para los tours que permita realizar una búsqueda rápida o agrupar los tours según diferentes filtros (precio, tiempo, hora, número de personas, edades recomendadas...).
 
-Pese a ello, el aspecto visual es correcto y el botón de contacto es bastante visible e intuitivo (símbolo de WhatsApp).
+Por otro lado, también de forma visible desde que se accede, el menú tiene pocas opciones y no es muy intuitivo: las etiquetas tienen nombres poco significativos (lo que no permite ubicarse correctamente/fácilmente dentro de la página) e incluso no se puede ver bien dentro de las páginas de los tours dado que el texto se confunde con las imágenes.
+
+Sin embargo, el mayor problema que presenta se encuentra dentro de los tours: aunque se incluye bastante información, puede haber algunos casos puntuales un poco confusos y los mapas que se proporcionan pueden no funcionar correctamente; pero es el proceso de reserva el gran punto negativo, se trata de un proceso muy poco intuitivo en el que no se establecen unos pasos bien definidos. A esto se suma el hecho de que la reserva es gestionada por una empresa externa con página web propia (se redirige), que no presenta algunos de los métodos de pago más comunes y que el usuario puede perder todos los pasos completados en caso de salirse a mitad del proceso.
+
+Pese a ello, el aspecto visual es correcto, se presenta una página con un estilo moderno y limpio y con el texto bastante legible. Además, la información de contacto es bastante visible (barra superior de la página) y se puede encontrar también en la parte inferior de la página (sitio común).
 
 En resumen, la página puede presentar algunos puntos positivos, sin embargo, la gran cantidad de errores de diseño y complicación de los procesos que realiza el usuario hacen que la experiencia se vea muy perjudicada.
