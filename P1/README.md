@@ -68,7 +68,7 @@ En primer lugar y, aunque no recibe una valoración positiva, la página web sí
 Sin embargo, el principal problema reside en el proceso para realizarlo y la experiencia de navegación por la web.
 
 El primer problema que surge al acceder es que la página no presenta una estructura bien definida: los tours se presentan sin un orden claro y pueden aparecer varias veces, lo que hace que encontrar el elemento deseado sea más complejo.
-A esto se suma el hecho de que no incluye un buscador o un filtro para los tours que permita realizar una búsqueda rápida o agrupar los tours según diferentes filtros (precio, tiempo, hora, número de personas, edades recomendadas...).
+A esto se suma el hecho de que no incluye un buscador o un filtro para los tours que permita realizar una búsqueda rápida o agrupar los tours según diferentes categorías (precio, tiempo, hora, número de personas, edades recomendadas...).
 
 Por otro lado, también de forma visible desde que se accede, el menú tiene pocas opciones y no es muy intuitivo: las etiquetas tienen nombres poco significativos (lo que no permite ubicarse correctamente/fácilmente dentro de la página) e incluso no se puede ver bien dentro de las páginas de los tours dado que el texto se confunde con las imágenes.
 
