@@ -2,7 +2,7 @@
 
 ### Empathy Map
 
-La página visualmente puede resultar agradable, pero no es una buena web de navegación: los tours están muy desordenados y no es sencillo encontrar el ideal.
+La página visualmente puede resultar agradable, pero no es una buena web de navegación: los tours están muy desordenados y no es sencillo encontrar el ideal. 
 Por otro lado, el proceso de reserva es confuso, dependiendo de dónde se acceda a la reserva redirige a una página o a otra, estando las opciones mal agrupadas.
 
 <img src="empathy_map.png">
