@@ -12,7 +12,7 @@ Por otro lado, el proceso de reserva es confuso, dependiendo de dónde se acceda
 
 Hemos elegido **Civitatis** por ser la opción más completa. Tiene bastantes filtros a la hora de buscar un tour, puedes cambiar la moneda y el idioma en cualquier momento y además hay diversas posibilidades de pago. Otro aspecto importante es que puedes crear un usuario para que todo este proceso de reserva sea más sencillo.
 
-<img src="competitor_analysis.png">
+<img src="competitor_analysis_new.png">
 
 ### Personas
 
