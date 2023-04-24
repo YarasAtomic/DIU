@@ -8,18 +8,20 @@
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
+<img src="scopecanvas.png">
 
 
 ### TASK ANALYSIS
 
 * User Task Matrix 
-* User/Task flow
+<img src="matriz_tareas.png">
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
 * Labelling 
+<img src="labelling.png">
 
 
 ### Prototipo Lo-FI Wireframe 

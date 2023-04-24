@@ -5,10 +5,10 @@ Grupo: DIU2.Dunno.  Curso: 2022/23
 Updated: 22/03/2023
 
 Proyecto:
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Where2go
 
 Descripción:
->>> Describa la idea de su producto en la práctica 2 
+>>> Una web que ofrece la posibilidad de crear tus propios itinerarios de ativadades por Granada y compartirlos. A parte, incluye sus propias actividades y un detallado sistema de recomendaciones
 
 Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
