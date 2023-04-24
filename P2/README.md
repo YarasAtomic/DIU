@@ -2,9 +2,9 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
+<img src="malla_receptora.png">
 * Point of View 
-
+<img src="pov.png">
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
