@@ -20,12 +20,13 @@
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+<img src="sitemap.png">
 * Labelling 
 <img src="labelling.png">
 
 
 ### Prototipo Lo-FI Wireframe 
-
+<img src="wireframe0.png">
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
