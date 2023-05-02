@@ -117,44 +117,38 @@ En resumen, la página puede presentar algunos puntos positivos, sin embargo, la
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
+En el trabajo realizado en la práctica anterior, hemos descubierto que elementos de una aplicación pueden considerarse críticos por parte de los usuarios, y que elementos son los que los desarrolladores dejan mas de lado. Esto es aplicable, al tipo de servicio que ofrece la aplicación, que suelen ser bastante similares y poco novedosos.
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
 
+<img src="P2/malla_receptora.png">
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+Where2Go es una web que pretende acercar Granada a las personas ofreciendo una gran variedad de tours.
+Como caracteristica destacable, Where2Go ofrece a las personas la oportunidad de realizar actividades y compartirlas con el resto de personas con el objetivo de realizar ocio alternativo y de forma social.
+Además la web incluirá un sistema de recomendaciones personalizadas faciles de usar y administrar.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+Para calcular la importancia de las tareas dentro de la aplicación, hemos realizado una Task Matrix, ya que recoge una gran cantidad de información usando pocos parametros. Además de que permite facilmente ordenar la importancia de los elementos.
+
+<img src="P2/matriz_tareas.png">
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+<img src="P2/labelling.png">
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+<img src="P2/wireframe0.png">
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
