@@ -28,8 +28,13 @@
 <img src="labelling.png">
 
 
-### Prototipo Lo-FI Wireframe 
+### Prototipo Lo-FI Wireframe
+
+#### Página de información del sitio y recomendaciones
+
 <img src="wireframe0.png">
+
+#### Página de la comunidad de usuarios
 
 - Itinerarios
 <img src="itinerarios.png">
@@ -42,6 +47,17 @@
 
 - Itinerario (usuario - no creador)
 <img src="itinerario_usuario.png">
+
+#### Página de ayuda en línea
+
+- Página inicial
+<img src="ayuda.png">
+
+- Página de contacto
+<img src="contacto.png">
+
+- Preguntas frecuentes
+<img src="faq.png">
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
