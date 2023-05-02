@@ -40,6 +40,9 @@ Esta sección muestra la estructura de la aplicación tras realizar el análisis
 
 
 ### Prototipo Lo-FI Wireframe
+#### Página Principal
+<img src="pag_ppal.jpeg">
+
 
 #### Página de información del sitio y recomendaciones
 
@@ -71,8 +74,27 @@ Esta sección muestra la estructura de la aplicación tras realizar el análisis
 <img src="faq.png">
 
 #### Página de viajero
+
 - Viajero
 <img src="viajero.jpeg">
+
+- Nuevo viajero
+<img src="nuevo_viajero.jpeg">
+
+- Preferencias
+<img src="mis_preferencias.jpeg">
+
+- Datos personales
+<img src="datos_personales.jpeg">
+
+#### Página tour
+
+- Tour
+<img src="tour.jpeg">
+
+- Comentarios del tour
+<img src="comentarios_tour.jpeg">
+
 ### Conclusiones  
 
 Como ya se ha mencionado, Where2Go es una aplicación de reserva de tours que implementa algunas funcionalidades adicionales que dan valor a la propuesta:
