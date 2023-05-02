@@ -70,6 +70,9 @@ Esta sección muestra la estructura de la aplicación tras realizar el análisis
 - Preguntas frecuentes
 <img src="faq.png">
 
+#### Página de viajero
+- Viajero
+<img src="viajero.jpeg">
 ### Conclusiones  
 
 Como ya se ha mencionado, Where2Go es una aplicación de reserva de tours que implementa algunas funcionalidades adicionales que dan valor a la propuesta:
