@@ -1,8 +1,10 @@
 ## DIU - Practica2, entregables
 
-### Ideación 
+### IDEACIÓN
+
 * Malla receptora de información 
 <img src="malla_receptora.png">
+
 * Point of View 
 <img src="pov.png">
 
@@ -21,12 +23,25 @@
 
 * Sitemap 
 <img src="sitemap.png">
+
 * Labelling 
 <img src="labelling.png">
 
 
 ### Prototipo Lo-FI Wireframe 
 <img src="wireframe0.png">
+
+- Itinerarios
+<img src="itinerarios.png">
+
+- Crear itinerarios
+<img src="crear_itinerario.png">
+
+- Itinerario (creador)
+<img src="itinerario_creador.png">
+
+- Itinerario (usuario - no creador)
+<img src="itinerario_usuario.png">
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
