@@ -11,7 +11,7 @@ Descripción:
 >>> Una web que ofrece la posibilidad de crear tus propios itinerarios de ativadades por Granada y compartirlos. A parte, incluye sus propias actividades y un detallado sistema de recomendaciones
 
 Logotipo:
-<img src="P3/icono.png" style="width:2rem">
+<img src="P3/icono.png" style="width:4rem">
 
 Miembros
  * :bust_in_silhouette:  Pablo Quesada Rojo [@pabloqr](https://github.com/pabloqr)
@@ -160,7 +160,7 @@ Para calcular la importancia de las tareas dentro de la aplicación, hemos reali
 <img src="P3/moodboard.png">
 
 
-<img src="P3/icono.png">
+<img src="P3/icono.png" style="width:4rem">
 
 >>>El icono se ha diseñado usando inkscape. Se ha utilizado una resolución 1024x1024, dado su alto nivel de densidad y su proporción estandar. Este icono sirve en multiples entornos, como redes sociales, o publicidad. Dispone de solo 2 colores (uno es el blanco), lo cual hace que sea facil cambiarlos y adaptarlos a mas situaciones.
 
