@@ -11,7 +11,7 @@ Descripción:
 >>> Una web que ofrece la posibilidad de crear tus propios itinerarios de ativadades por Granada y compartirlos. A parte, incluye sus propias actividades y un detallado sistema de recomendaciones
 
 Logotipo:
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+<img src="P3/icono.png">
 
 Miembros
  * :bust_in_silhouette:  Pablo Quesada Rojo [@pabloqr](https://github.com/pabloqr)
@@ -157,11 +157,12 @@ Para calcular la importancia de las tareas dentro de la aplicación, hemos reali
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+<img src="P3/moodboard.png">
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
+<img src="P3/icono.png">
+
+>>>El icono se ha diseñado usando inkscape. Se ha utilizado una resolución 1024x1024, dado su alto nivel de densidad y su proporción estandar. Este icono sirve en multiples entornos, como redes sociales, o publicidad. Dispone de solo 2 colores (uno es el blanco), lo cual hace que sea facil cambiarlos y adaptarlos a mas situaciones.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----

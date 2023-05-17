@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="iconodiu.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:zoom="0.35545034"
+     inkscape:cx="-697.70646"
+     inkscape:cy="744.12645"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g953" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g953">
+      <ellipse
+         style="fill:#0075ff;fill-opacity:1;stroke-width:0.439862"
+         id="path3692"
+         cx="105.13904"
+         cy="190.45242"
+         rx="104.564"
+         ry="104.66982"
+         inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/icon.png"
+         inkscape:export-xdpi="124.246"
+         inkscape:export-ydpi="124.246" />
+      <path
+         id="path3692-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.439862"
+         d="m 150.26495,96.034066 c -0.84812,9.933944 -3.41449,26.106884 -11.19369,29.845814 -1.42705,0.68589 -2.83731,0.99022 -4.23671,0.99736 -9.79563,0.0514 -19.0513,-14.44593 -29.69567,-14.44591 -12.165006,3e-5 -22.515598,18.93557 -33.931931,13.44855 C 63.43783,122.14581 60.868571,106.01144 60.016954,96.074218 A 104.5637,104.66981 0 0 0 10.85704,145.28447 c 9.927219,0.85243 26.044324,3.42409 29.774522,11.2009 0.68519,1.4285 0.989219,2.8402 0.996356,4.24101 0.05147,9.80559 -14.431297,19.07062 -14.431269,29.72581 2.5e-5,12.17737 18.916372,22.53845 13.434913,33.96637 -3.730165,7.77675 -19.847293,10.34878 -29.774522,11.20134 a 104.5637,104.66981 0 0 0 49.159914,49.21072 c 0.851471,-9.93722 3.420383,-26.07156 11.189535,-29.80565 1.427049,-0.68589 2.837327,-0.99024 4.236706,-0.99738 9.795648,-0.0514 19.051299,14.44594 29.695685,14.44592 12.16501,0 22.51558,-18.93557 33.93193,-13.44854 7.76899,3.734 10.33879,19.86794 11.19045,29.80519 a 104.5637,104.66981 0 0 0 49.15945,-49.21026 c -9.92725,-0.85245 -26.04437,-3.42421 -29.77452,-11.2009 -0.68519,-1.42849 -0.98922,-2.8402 -0.99636,-4.241 -0.0514,-9.80558 14.43129,-19.07062 14.43128,-29.72581 -3e-5,-12.17733 -18.91638,-22.53843 -13.43492,-33.96636 3.73499,-7.78684 19.89113,-10.3563 29.8151,-11.2055 A 104.5637,104.66981 0 0 0 150.26495,96.034066 Z"
+         inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/icon.png"
+         inkscape:export-xdpi="124.246"
+         inkscape:export-ydpi="124.246" />
+    </g>
+    <g
+       id="g3778-3"
+       transform="translate(387.73952,27.97679)">
+      <path
+         id="rect226-5"
+         style="fill:#0d4dc4;fill-opacity:1;stroke-width:0.264583"
+         d="m 60.953385,250.21647 c -1.56844,0.008 -3.149098,0.34876 -4.748549,1.11673 -12.795602,6.14374 -13.017291,42.30284 -13.017291,42.30284 v 43.64798 H 145.2857 v -43.64798 c 0,0 -0.22226,-36.15916 -13.01781,-42.30284 -12.79555,-6.14368 -24.39659,15.05796 -38.031267,15.05799 -11.93034,3e-5 -22.304171,-16.2324 -33.283238,-16.17472 z" />
+      <path
+         id="rect226-6-6"
+         style="fill:#0d4dc4;fill-opacity:1;stroke-width:0.264583"
+         d="m 127.51986,107.849 c 1.56844,-0.008 3.1491,-0.34876 4.74855,-1.11673 12.7956,-6.14374 13.01729,-42.302853 13.01729,-42.302853 V 20.781441 H 43.187545 v 43.647976 c 0,0 0.22226,36.159173 13.01781,42.302853 12.79555,6.14368 24.3966,-15.057963 38.031265,-15.057993 11.93034,-3e-5 22.30417,16.232403 33.28324,16.174723 z" />
+      <path
+         id="rect226-7-2"
+         style="fill:#0d4dc4;fill-opacity:1;stroke-width:0.264583"
+         d="m 23.052879,145.74949 c -0.008,-1.56844 -0.34876,-3.14909 -1.116729,-4.74855 -6.143736,-12.7956 -42.302839,-13.01729 -42.302839,-13.01729 h -43.647974 l -3e-6,102.09815 43.647976,1e-5 c 0,0 36.15916,-0.22226 42.30284,-13.01781 C 28.07983,204.26846 6.8781907,192.66742 6.8781626,179.03273 6.8781314,167.10239 23.110565,156.72856 23.052879,145.74949 Z" />
+      <path
+         id="rect226-6-5-9"
+         style="fill:#0d4dc4;fill-opacity:1;stroke-width:0.264583"
+         d="m 165.42035,212.31597 c 0.008,1.56843 0.34877,3.14909 1.11673,4.74854 6.14374,12.7956 42.30286,13.0173 42.30286,13.0173 l 43.64797,-1e-5 V 127.98365 h -43.64798 c 0,0 -36.15917,0.22226 -42.30285,13.01781 -6.14368,12.79556 15.05797,24.39661 15.058,38.03127 2e-5,11.93034 -16.23242,22.30417 -16.17473,33.28324 z" />
+    </g>
+    <path
+       id="path977"
+       style="fill:#0075ff;stroke-width:1.10598;stroke-linecap:round;fill-opacity:1"
+       d="m 132.98201,175.05984 a 27.842977,27.842977 0 0 1 -27.84297,27.84297 27.842977,27.842977 0 0 1 -27.842983,-27.84297 27.842977,27.842977 0 0 1 27.842983,-27.84298 27.842977,27.842977 0 0 1 27.84297,27.84298 z"
+       inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/icon.png"
+       inkscape:export-xdpi="124.246"
+       inkscape:export-ydpi="124.246" />
+    <path
+       id="path1796"
+       style="fill:#0075ff;fill-opacity:1;stroke:none;stroke-width:0.186979px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.296057,175.05984 h 55.685953 m 0,0 c 0,0 0.96348,15.22303 -12.25705,24.05056 -13.22054,8.82752 -15.58592,34.57758 -15.58592,34.57758 0,0 -2.36539,-25.75006 -15.585923,-34.57758 -13.220537,-8.82753 -12.25706,-24.05056 -12.25706,-24.05056"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/icon.png"
+       inkscape:export-xdpi="124.246"
+       inkscape:export-ydpi="124.246" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10598;stroke-linecap:round"
+       id="path2092"
+       cx="105.13904"
+       cy="175.05983"
+       r="10.67119"
+       inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/icon.png"
+       inkscape:export-xdpi="124.246"
+       inkscape:export-ydpi="124.246" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke-width:0.439862"
+       id="ellipse2257"
+       cx="-163.75208"
+       cy="190.45242"
+       rx="104.564"
+       ry="104.66982"
+       inkscape:export-filename="/home/oneleggedguy/Uni/iconodiuDark.png"
+       inkscape:export-xdpi="124.24593"
+       inkscape:export-ydpi="124.24593" />
+    <path
+       id="path2259"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.439862"
+       d="m -118.62616,96.034066 c -0.84812,9.933944 -3.41449,26.106884 -11.19369,29.845814 -1.42705,0.68589 -2.83731,0.99022 -4.23671,0.99736 -9.79563,0.0514 -19.0513,-14.44593 -29.69567,-14.44591 -12.16501,3e-5 -22.5156,18.93557 -33.93193,13.44855 -7.76912,-3.73407 -10.33838,-19.86844 -11.19,-29.805662 a 104.5637,104.66981 0 0 0 -49.15991,49.210252 c 9.92722,0.85243 26.04432,3.42409 29.77452,11.2009 0.68519,1.4285 0.98922,2.8402 0.99636,4.24101 0.0515,9.80559 -14.4313,19.07062 -14.43127,29.72581 2e-5,12.17737 18.91637,22.53845 13.43491,33.96637 -3.73016,7.77675 -19.84729,10.34878 -29.77452,11.20134 a 104.5637,104.66981 0 0 0 49.15991,49.21072 c 0.85147,-9.93722 3.42039,-26.07156 11.18954,-29.80565 1.42705,-0.68589 2.83733,-0.99024 4.2367,-0.99738 9.79565,-0.0514 19.0513,14.44594 29.69569,14.44592 12.16501,0 22.51558,-18.93557 33.93193,-13.44854 7.76899,3.734 10.33879,19.86794 11.19045,29.80519 A 104.5637,104.66981 0 0 0 -69.4704,235.6199 c -9.92725,-0.85245 -26.04437,-3.42421 -29.77452,-11.2009 -0.68519,-1.42849 -0.98922,-2.8402 -0.99636,-4.241 -0.0514,-9.80558 14.43129,-19.07062 14.43128,-29.72581 -3e-5,-12.17733 -18.91638,-22.53843 -13.43492,-33.96636 3.73499,-7.78684 19.89113,-10.3563 29.8151,-11.2055 a 104.5637,104.66981 0 0 0 -49.19634,-49.246264 z"
+       inkscape:export-filename="/home/oneleggedguy/Uni/iconodiuDark.png"
+       inkscape:export-xdpi="124.24593"
+       inkscape:export-ydpi="124.24593" />
+    <path
+       id="path2263"
+       style="fill:#000000;stroke-width:1.10598;stroke-linecap:round"
+       d="m -135.9091,175.05984 a 27.842977,27.842977 0 0 1 -27.84297,27.84297 27.842977,27.842977 0 0 1 -27.84298,-27.84297 27.842977,27.842977 0 0 1 27.84298,-27.84298 27.842977,27.842977 0 0 1 27.84297,27.84298 z"
+       inkscape:export-filename="/home/oneleggedguy/Uni/iconodiuDark.png"
+       inkscape:export-xdpi="124.24593"
+       inkscape:export-ydpi="124.24593" />
+    <path
+       id="path2265"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.186979px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -191.59505,175.05984 h 55.68595 m 0,0 c 0,0 0.96348,15.22303 -12.25705,24.05056 -13.22054,8.82752 -15.58592,34.57758 -15.58592,34.57758 0,0 -2.36538,-25.75006 -15.58592,-34.57758 -13.22054,-8.82753 -12.25706,-24.05056 -12.25706,-24.05056"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="/home/oneleggedguy/Uni/iconodiuDark.png"
+       inkscape:export-xdpi="124.24593"
+       inkscape:export-ydpi="124.24593" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10598;stroke-linecap:round"
+       id="circle2267"
+       cx="-163.75208"
+       cy="175.05983"
+       r="10.67119"
+       inkscape:export-filename="/home/oneleggedguy/Uni/iconodiuDark.png"
+       inkscape:export-xdpi="124.24593"
+       inkscape:export-ydpi="124.24593" />
+    <ellipse
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.439862"
+       id="ellipse2363"
+       cx="-440.25058"
+       cy="190.45242"
+       rx="104.564"
+       ry="104.66982"
+       inkscape:export-filename="/home/oneleggedguy/Uni/iconodiuLight.png"
+       inkscape:export-xdpi="124.24593"
+       inkscape:export-ydpi="124.24593" />
+    <path
+       id="path2365"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.439862"
+       d="m -395.12468,96.034066 c -0.84812,9.933944 -3.41449,26.106884 -11.19369,29.845814 -1.42705,0.68589 -2.83731,0.99022 -4.23671,0.99736 -9.79563,0.0514 -19.0513,-14.44593 -29.69567,-14.44591 -12.16501,3e-5 -22.5156,18.93557 -33.93193,13.44855 -7.76912,-3.73407 -10.33838,-19.86844 -11.19,-29.805662 a 104.5637,104.66981 0 0 0 -49.15991,49.210252 c 9.92722,0.85243 26.04432,3.42409 29.77452,11.2009 0.68519,1.4285 0.98922,2.8402 0.99636,4.24101 0.0515,9.80559 -14.4313,19.07062 -14.43127,29.72581 2e-5,12.17737 18.91637,22.53845 13.43491,33.96637 -3.73016,7.77675 -19.84729,10.34878 -29.77452,11.20134 a 104.5637,104.66981 0 0 0 49.15991,49.21072 c 0.85147,-9.93722 3.42039,-26.07156 11.18954,-29.80565 1.42705,-0.68589 2.83733,-0.99024 4.2367,-0.99738 9.79565,-0.0514 19.0513,14.44594 29.69569,14.44592 12.16501,0 22.51558,-18.93557 33.93193,-13.44854 7.76899,3.734 10.33879,19.86794 11.19045,29.80519 a 104.5637,104.66981 0 0 0 49.15945,-49.21026 c -9.92725,-0.85245 -26.04437,-3.42421 -29.77452,-11.2009 -0.68519,-1.42849 -0.98922,-2.8402 -0.99636,-4.241 -0.0514,-9.80558 14.43129,-19.07062 14.43128,-29.72581 -3e-5,-12.17733 -18.91638,-22.53843 -13.43492,-33.96636 3.73499,-7.78684 19.89113,-10.3563 29.8151,-11.2055 a 104.5637,104.66981 0 0 0 -49.19634,-49.246264 z"
+       inkscape:export-filename="/home/oneleggedguy/Uni/iconodiuLight.png"
+       inkscape:export-xdpi="124.24593"
+       inkscape:export-ydpi="124.24593" />
+    <path
+       id="path2367"
+       style="fill:#b3b3b3;stroke-width:1.10598;stroke-linecap:round"
+       d="m -412.40762,175.05984 a 27.842977,27.842977 0 0 1 -27.84297,27.84297 27.842977,27.842977 0 0 1 -27.84298,-27.84297 27.842977,27.842977 0 0 1 27.84298,-27.84298 27.842977,27.842977 0 0 1 27.84297,27.84298 z"
+       inkscape:export-filename="/home/oneleggedguy/Uni/iconodiuLight.png"
+       inkscape:export-xdpi="124.24593"
+       inkscape:export-ydpi="124.24593" />
+    <path
+       id="path2369"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.186979px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -468.09357,175.05984 h 55.68595 m 0,0 c 0,0 0.96348,15.22303 -12.25705,24.05056 -13.22054,8.82752 -15.58592,34.57758 -15.58592,34.57758 0,0 -2.36538,-25.75006 -15.58592,-34.57758 -13.22054,-8.82753 -12.25706,-24.05056 -12.25706,-24.05056"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="/home/oneleggedguy/Uni/iconodiuLight.png"
+       inkscape:export-xdpi="124.24593"
+       inkscape:export-ydpi="124.24593" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10598;stroke-linecap:round"
+       id="circle2371"
+       cx="-440.25058"
+       cy="175.05983"
+       r="10.67119"
+       inkscape:export-filename="/home/oneleggedguy/Uni/iconodiuLight.png"
+       inkscape:export-xdpi="124.24593"
+       inkscape:export-ydpi="124.24593" />
+  </g>
+</svg>
