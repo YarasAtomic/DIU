@@ -11,7 +11,7 @@ Descripción:
 >>> Una web que ofrece la posibilidad de crear tus propios itinerarios de ativadades por Granada y compartirlos. A parte, incluye sus propias actividades y un detallado sistema de recomendaciones
 
 Logotipo:
-<img src="P3/icono.png">
+<img src="P3/icono.png" style="width:2rem">
 
 Miembros
  * :bust_in_silhouette:  Pablo Quesada Rojo [@pabloqr](https://github.com/pabloqr)
