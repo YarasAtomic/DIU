@@ -24,15 +24,15 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:snap-text-baseline="false"
-     inkscape:zoom="0.35545034"
-     inkscape:cx="-697.70646"
-     inkscape:cy="744.12645"
+     inkscape:zoom="0.17772517"
+     inkscape:cx="1946.8261"
+     inkscape:cy="1837.1061"
      inkscape:window-width="1920"
      inkscape:window-height="999"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g953" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2" />
   <g
@@ -58,10 +58,38 @@
          inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/icon.png"
          inkscape:export-xdpi="124.246"
          inkscape:export-ydpi="124.246" />
+      <rect
+         style="fill:#42dcae;fill-opacity:1;stroke-width:1.565;stroke-linecap:round"
+         id="rect11925"
+         width="142.95589"
+         height="130.59071"
+         x="-257.00845"
+         y="639.4953"
+         ry="0.682199" />
+      <path
+         style="fill:#42dcae;fill-opacity:1;stroke-width:33.2815;stroke-linecap:round"
+         d="m 329.1599,2200.1253 c -21.66266,-4.0288 -52.04665,-12.1739 -67.51998,-18.1003 l -28.13332,-10.7751 1.49742,-27.8119 c 1.9615,-36.4316 22.06557,-76.8862 41.52108,-83.5513 15.34089,-5.2554 14.23922,-5.7602 88.30625,40.4573 27.81212,17.3547 47.42886,13.6129 94.62591,-18.0491 21.11035,-14.1619 42.49902,-25.7488 47.53039,-25.7488 26.36303,0 55.67885,51.006 55.67885,96.8745 0,13.7351 -3.76102,17.6708 -25.99313,27.2006 -29.87971,12.808 -110.87655,28.0836 -144.95052,27.337 -12.74696,-0.2793 -40.90029,-3.8041 -62.56295,-7.8329 z"
+         id="path14243"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#42dcae;fill-opacity:1;stroke-width:33.2815;stroke-linecap:round"
+         d="m 329.1599,2200.1253 c -21.66266,-4.0288 -52.04665,-12.1739 -67.51998,-18.1003 l -28.13332,-10.7751 1.49742,-27.8119 c 1.9615,-36.4316 22.06557,-76.8862 41.52108,-83.5513 15.34089,-5.2554 14.23922,-5.7602 88.30625,40.4573 27.81212,17.3547 47.42886,13.6129 94.62591,-18.0491 21.11035,-14.1619 42.49902,-25.7488 47.53039,-25.7488 26.36303,0 55.67885,51.006 55.67885,96.8745 0,13.7351 -3.76102,17.6708 -25.99313,27.2006 -29.87971,12.808 -110.87655,28.0836 -144.95052,27.337 -12.74696,-0.2793 -40.90029,-3.8041 -62.56295,-7.8329 z"
+         id="path14282"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#42dcae;fill-opacity:1;stroke-width:33.2815;stroke-linecap:round"
+         d="m 329.1599,2200.1253 c -21.66266,-4.0288 -52.04665,-12.1739 -67.51998,-18.1003 l -28.13332,-10.7751 1.49742,-27.8119 c 1.9615,-36.4316 22.06557,-76.8862 41.52108,-83.5513 15.34089,-5.2554 14.23922,-5.7602 88.30625,40.4573 27.81212,17.3547 47.42886,13.6129 94.62591,-18.0491 21.11035,-14.1619 42.49902,-25.7488 47.53039,-25.7488 26.36303,0 55.67885,51.006 55.67885,96.8745 0,13.7351 -3.76102,17.6708 -25.99313,27.2006 -29.87971,12.808 -110.87655,28.0836 -144.95052,27.337 -12.74696,-0.2793 -40.90029,-3.8041 -62.56295,-7.8329 z"
+         id="path14321"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#42dcae;fill-opacity:1;stroke-width:33.2815;stroke-linecap:round"
+         d="m 329.1599,2200.1253 c -21.66266,-4.0288 -52.04665,-12.1739 -67.51998,-18.1003 l -28.13332,-10.7751 1.49742,-27.8119 c 1.9615,-36.4316 22.06557,-76.8862 41.52108,-83.5513 15.34089,-5.2554 14.23922,-5.7602 88.30625,40.4573 27.81212,17.3547 47.42886,13.6129 94.62591,-18.0491 21.11035,-14.1619 42.49902,-25.7488 47.53039,-25.7488 26.36303,0 55.67885,51.006 55.67885,96.8745 0,13.7351 -3.76102,17.6708 -25.99313,27.2006 -29.87971,12.808 -110.87655,28.0836 -144.95052,27.337 -12.74696,-0.2793 -40.90029,-3.8041 -62.56295,-7.8329 z"
+         id="path14360"
+         transform="scale(0.26458333)" />
     </g>
     <g
        id="g3778-3"
-       transform="translate(387.73952,27.97679)">
+       transform="translate(404.33899,-531.18281)">
       <path
          id="rect226-5"
          style="fill:#0d4dc4;fill-opacity:1;stroke-width:0.264583"
@@ -101,6 +129,54 @@
        cy="175.05983"
        r="10.67119"
        inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/icon.png"
+       inkscape:export-xdpi="124.246"
+       inkscape:export-ydpi="124.246" />
+    <g
+       id="g953-3"
+       transform="translate(0,289.50112)"
+       inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/iconText.png"
+       inkscape:export-xdpi="124.246"
+       inkscape:export-ydpi="124.246">
+      <ellipse
+         style="fill:#0075ff;fill-opacity:1;stroke-width:0.439862"
+         id="path3692-6"
+         cx="105.13904"
+         cy="190.45242"
+         rx="104.564"
+         ry="104.66982"
+         inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/icon.png"
+         inkscape:export-xdpi="124.246"
+         inkscape:export-ydpi="124.246" />
+      <path
+         id="path3692-1-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.439862"
+         d="m 150.26495,96.034066 c -0.84812,9.933944 -3.41449,26.106884 -11.19369,29.845814 -1.42705,0.68589 -2.83731,0.99022 -4.23671,0.99736 -9.79563,0.0514 -19.0513,-14.44593 -29.69567,-14.44591 -12.165006,3e-5 -22.515598,18.93557 -33.931931,13.44855 C 63.43783,122.14581 60.868571,106.01144 60.016954,96.074218 A 104.5637,104.66981 0 0 0 10.85704,145.28447 c 9.927219,0.85243 26.044324,3.42409 29.774522,11.2009 0.68519,1.4285 0.989219,2.8402 0.996356,4.24101 0.05147,9.80559 -14.431297,19.07062 -14.431269,29.72581 2.5e-5,12.17737 18.916372,22.53845 13.434913,33.96637 -3.730165,7.77675 -19.847293,10.34878 -29.774522,11.20134 a 104.5637,104.66981 0 0 0 49.159914,49.21072 c 0.851471,-9.93722 3.420383,-26.07156 11.189535,-29.80565 1.427049,-0.68589 2.837327,-0.99024 4.236706,-0.99738 9.795648,-0.0514 19.051299,14.44594 29.695685,14.44592 12.16501,0 22.51558,-18.93557 33.93193,-13.44854 7.76899,3.734 10.33879,19.86794 11.19045,29.80519 a 104.5637,104.66981 0 0 0 49.15945,-49.21026 c -9.92725,-0.85245 -26.04437,-3.42421 -29.77452,-11.2009 -0.68519,-1.42849 -0.98922,-2.8402 -0.99636,-4.241 -0.0514,-9.80558 14.43129,-19.07062 14.43128,-29.72581 -3e-5,-12.17733 -18.91638,-22.53843 -13.43492,-33.96636 3.73499,-7.78684 19.89113,-10.3563 29.8151,-11.2055 A 104.5637,104.66981 0 0 0 150.26495,96.034066 Z"
+         inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/icon.png"
+         inkscape:export-xdpi="124.246"
+         inkscape:export-ydpi="124.246" />
+    </g>
+    <path
+       id="path977-5"
+       style="fill:#0075ff;fill-opacity:1;stroke-width:1.10598;stroke-linecap:round"
+       d="m 132.98201,464.56096 a 27.842977,27.842977 0 0 1 -27.84297,27.84297 27.842977,27.842977 0 0 1 -27.84298,-27.84297 27.842977,27.842977 0 0 1 27.84298,-27.84298 27.842977,27.842977 0 0 1 27.84297,27.84298 z"
+       inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/iconText.png"
+       inkscape:export-xdpi="124.246"
+       inkscape:export-ydpi="124.246" />
+    <path
+       id="path1796-3"
+       style="fill:#0075ff;fill-opacity:1;stroke:none;stroke-width:0.186979px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 77.29606,464.56096 h 55.68595 m 0,0 c 0,0 0.96348,15.22303 -12.25705,24.05056 -13.22054,8.82752 -15.58592,34.57758 -15.58592,34.57758 0,0 -2.36539,-25.75006 -15.585918,-34.57758 C 76.33258,479.78399 77.29606,464.56096 77.29606,464.56096"
+       sodipodi:nodetypes="cccscsc"
+       inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/iconText.png"
+       inkscape:export-xdpi="124.246"
+       inkscape:export-ydpi="124.246" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10598;stroke-linecap:round"
+       id="path2092-5"
+       cx="105.13904"
+       cy="464.56094"
+       r="10.67119"
+       inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/iconText.png"
        inkscape:export-xdpi="124.246"
        inkscape:export-ydpi="124.246" />
     <ellipse
@@ -185,5 +261,19 @@
        inkscape:export-filename="/home/oneleggedguy/Uni/iconodiuLight.png"
        inkscape:export-xdpi="124.24593"
        inkscape:export-ydpi="124.24593" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:196.03px;line-height:1.25;font-family:sans-serif;fill:#0075ff;fill-opacity:1;stroke:none;stroke-width:4.90074"
+       x="245.17389"
+       y="546.0025"
+       id="text5279"
+       inkscape:export-filename="/home/oneleggedguy/Uni/Github diu/DIU/P3/iconText.png"
+       inkscape:export-xdpi="124.246"
+       inkscape:export-ydpi="124.246"><tspan
+         sodipodi:role="line"
+         id="tspan5277"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Spectral;-inkscape-font-specification:Spectral;fill:#0075ff;fill-opacity:1;stroke-width:4.90074"
+         x="245.17389"
+         y="546.0025">Where2Go</tspan></text>
   </g>
 </svg>
