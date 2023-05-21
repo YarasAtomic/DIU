@@ -19,17 +19,17 @@ Por último, el footer y el header permite viajar directamente a nuestra página
 ## Mockup: LAYOUT HI-FI
 En este Layout hemos usado los siguientes guidelines:
 
-###Filtros
+#### Filtros
 
 https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-filtering/#sidebar
 Hemos creado un filtro basándonos en un filtro lateral, ya que tiene una gran escalabilidad, permitiendo añadir diferentes número de valores según las necesidades de cada página. Sin embargo afecta a la página entera, ya que no solo hay que dejar un espacio lateral para que se incluya, si no que cada elemento de la página se ve afectado por los valores que se escogen.
 
-###Botones
+#### Botones
 
 https://m1.material.io/components/buttons.html#
 Los diferente tipos de botones los hemos obtenido siguiendo esta guía, que muestra tanto cómo se tienen que ver como dónde hay que colocarlos
 
-### Registro de cuenta
+#### Registro de cuenta
 
 https://ui-patterns.com/patterns/AccountRegistration
 Este patrón se ha usado en las páginas para crear un nuevo usuario, registrarse y modificar los datos de un usuario registrado. 
@@ -37,13 +37,13 @@ Se ha tenido en cuenta que el diseño sea lo más fácil posible, incluyendo la 
 Además, se establece un sistema de 'ayuda', donde cuando no se entienda qué información se debe introducir o cómo, se muestra un ejemplo
 
 
-### Calendario
+#### Calendario
 
 https://ui-patterns.com/patterns/CalendarPicker
 Se ha usado el patrón de 'Seleccionar en calendario'  para que se haga más fácil al usuario introducir una fecha a la hora de elegir un día para el tour.
 Cuenta con atajos para cambiar de mes más facilmente, y se rellena directamente la fecha en el botón de abajo. También se muestra semanas completas aún cuando el mes no empieza o acaba en esa semana
 
-###Carrusel de imágenes
+#### Carrusel de imágenes
 https://ui-patterns.com/patterns/Carousel
 Se ha optado usar un carrusel de imágenes ya que permite navegar por una serie de imágenes sin que estén todas en pantalla, y aporta flexibilidad, ya que pueden haber tours que no cuenten con las mismas imágenes que otros
 
