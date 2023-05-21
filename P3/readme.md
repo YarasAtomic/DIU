@@ -17,6 +17,8 @@ A continuación se encuentra un conjunto de comentarios que explican las experie
 Por último, el footer y el header permite viajar directamente a nuestra página web
 
 ## Mockup: LAYOUT HI-FI
+<img src="itinerarios.jpeg">
+
 En este Layout hemos usado los siguientes guidelines:
 
 #### Filtros
