@@ -196,9 +196,10 @@ Carrusel de imágenes: https://ui-patterns.com/patterns/Carousel
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
- <video width="320" height="240" controls>
+<!-- <video width="320" height="240" controls>
   <source src="P3/simulacion.mp4" type="video/mp4">
-</video> 
+</video> -->
+[![Watch the video](https://img.youtube.com/vi/Cgf6Xp6AKSw/maxresdefault.jpg)](https://youtu.be/Cgf6Xp6AKSw)
 
 ## Paso 4. Evaluación 
 
