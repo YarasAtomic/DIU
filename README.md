@@ -170,7 +170,7 @@ Para calcular la importancia de las tareas dentro de la aplicación, hemos reali
 ----
 
 
-<img src="P3/landing_page.png">
+<img src="P3/landing_page.jpeg">
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
