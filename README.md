@@ -19,6 +19,8 @@ Miembros
  * :bust_in_silhouette:  Guillermo Medialdea Burgos [@YarasAtomic](https://github.com/YarasAtomic)
 
 ---
+Boceto HI-FI:
+>>> https://www.figma.com/file/6NM0Xleb3hsISxHpgTG1rS/Landing-Page?type=design&node-id=0-1&t=LZRnw23c2vyaCyhR-0
 
 # Proceso de Diseño 
 
@@ -168,18 +170,19 @@ Para calcular la importancia de las tareas dentro de la aplicación, hemos reali
 ----
 
 
->>> Plantear Landing Page 
+<img src="P3/landing_page.png">
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+https://m1.material.io/components/buttons.html#buttons-button-types
+https://ui-patterns.com/patterns/LiveFilter
+https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-filtering/#sidebar
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
