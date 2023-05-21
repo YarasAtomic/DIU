@@ -185,19 +185,19 @@ Carrusel de imágenes: https://ui-patterns.com/patterns/Carousel
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-<img src="itinerarios.jpeg">
-<img src="lista_tour.jpeg">
-<img src="tour.jpeg">
-<img src="recomendaciones.png">
-<img src="viajero.jpeg">
-<img src="ayuda.jpeg">
-<img src="quienessomos.png">
+<img src="P3/itinerarios.jpeg">
+<img src="P3/lista_tour.jpeg">
+<img src="P3/tour.jpeg">
+<img src="P3/recomendaciones.png">
+<img src="P3/viajero.jpeg">
+<img src="P3/ayuda.jpeg">
+<img src="P3/quienessomos.png">
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
  <video width="320" height="240" controls>
-  <source src=P3/"simulacion.mp4" type="video/mp4">
+  <source src="P3/simulacion.mp4" type="video/mp4">
 </video> 
 
 ## Paso 4. Evaluación 
