@@ -199,7 +199,8 @@ Carrusel de imágenes: https://ui-patterns.com/patterns/Carousel
 <!-- <video width="320" height="240" controls>
   <source src="P3/simulacion.mp4" type="video/mp4">
 </video> -->
-[![Watch the video](https://img.youtube.com/vi/Cgf6Xp6AKSw/hqdefault.jpg)](https://youtu.be/Cgf6Xp6AKSw)
+Video de la simulación:
+[![Simulación](https://img.youtube.com/vi/Cgf6Xp6AKSw/hqdefault.jpg)](https://youtu.be/Cgf6Xp6AKSw)
 
 ## Paso 4. Evaluación 
 
