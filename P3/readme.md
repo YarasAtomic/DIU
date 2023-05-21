@@ -18,6 +18,12 @@ Por último, el footer y el header permite viajar directamente a nuestra página
 
 ## Mockup: LAYOUT HI-FI
 <img src="itinerarios.jpeg">
+<img src="lista_tour.jpeg">
+<img src="tour.jpeg">
+<img src="recomendaciones.jpeg">
+<img src="viajero.jpeg">
+<img src="ayuda.jpeg">
+<img src="quienessomos.jpeg">
 
 En este Layout hemos usado los siguientes guidelines:
 
