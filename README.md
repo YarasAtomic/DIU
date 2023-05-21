@@ -175,23 +175,30 @@ Para calcular la importancia de las tareas dentro de la aplicación, hemos reali
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-https://m1.material.io/components/buttons.html#buttons-button-types
-https://ui-patterns.com/patterns/LiveFilter
+Botones: https://m1.material.io/components/buttons.html#buttons-button-types
+Filtros: https://ui-patterns.com/patterns/LiveFilter
 https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-filtering/#sidebar
+Registro de cuenta: https://ui-patterns.com/patterns/AccountRegistration
+Calendario: https://ui-patterns.com/patterns/CalendarPicker
+Carrusel de imágenes: https://ui-patterns.com/patterns/Carousel
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-
-
+<img src="itinerarios.jpeg">
+<img src="lista_tour.jpeg">
+<img src="tour.jpeg">
+<img src="recomendaciones.png">
+<img src="viajero.jpeg">
+<img src="ayuda.jpeg">
+<img src="quienessomos.png">
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+ <video width="320" height="240" controls>
+  <source src=P3/"simulacion.mp4" type="video/mp4">
+</video> 
 
 ## Paso 4. Evaluación 
 
