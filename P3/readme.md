@@ -18,15 +18,19 @@ Por último, el footer y el header permite viajar directamente a nuestra página
 
 ## Mockup: LAYOUT HI-FI
 En este Layout hemos usado los siguientes guidelines:
+
 ###Filtros
+
 https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-filtering/#sidebar
 Hemos creado un filtro basándonos en un filtro lateral, ya que tiene una gran escalabilidad, permitiendo añadir diferentes número de valores según las necesidades de cada página. Sin embargo afecta a la página entera, ya que no solo hay que dejar un espacio lateral para que se incluya, si no que cada elemento de la página se ve afectado por los valores que se escogen.
 
 ###Botones
+
 https://m1.material.io/components/buttons.html#
 Los diferente tipos de botones los hemos obtenido siguiendo esta guía, que muestra tanto cómo se tienen que ver como dónde hay que colocarlos
 
 ### Registro de cuenta
+
 https://ui-patterns.com/patterns/AccountRegistration
 Este patrón se ha usado en las páginas para crear un nuevo usuario, registrarse y modificar los datos de un usuario registrado. 
 Se ha tenido en cuenta que el diseño sea lo más fácil posible, incluyendo la información mínima necesaria para crear una cuenta, pudiendo cambiar cualquier dato que se haya asociado a ella (menos el cumpleaños).
@@ -34,6 +38,7 @@ Además, se establece un sistema de 'ayuda', donde cuando no se entienda qué in
 
 
 ### Calendario
+
 https://ui-patterns.com/patterns/CalendarPicker
 Se ha usado el patrón de 'Seleccionar en calendario'  para que se haga más fácil al usuario introducir una fecha a la hora de elegir un día para el tour.
 Cuenta con atajos para cambiar de mes más facilmente, y se rellena directamente la fecha en el botón de abajo. También se muestra semanas completas aún cuando el mes no empieza o acaba en esa semana
