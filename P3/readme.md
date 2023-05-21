@@ -20,10 +20,10 @@ Por último, el footer y el header permite viajar directamente a nuestra página
 <img src="itinerarios.jpeg">
 <img src="lista_tour.jpeg">
 <img src="tour.jpeg">
-<img src="recomendaciones.jpeg">
+<img src="recomendaciones.png">
 <img src="viajero.jpeg">
 <img src="ayuda.jpeg">
-<img src="quienessomos.jpeg">
+<img src="quienessomos.png">
 
 En este Layout hemos usado los siguientes guidelines:
 
