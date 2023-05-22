@@ -20,7 +20,7 @@ Miembros
 
 ---
 Boceto HI-FI:
->>> https://www.figma.com/file/6NM0Xleb3hsISxHpgTG1rS/Landing-Page?type=design&node-id=0-1&t=LZRnw23c2vyaCyhR-0
+>>> https://www.figma.com/proto/6NM0Xleb3hsISxHpgTG1rS/Layout-Hi-Fi-%5BGeneral%5D?node-id=1-2&starting-point-node-id=1%3A2
 
 # Proceso de Diseño 
 
