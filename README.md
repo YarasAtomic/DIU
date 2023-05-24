@@ -201,7 +201,11 @@ Carrusel de imágenes: https://ui-patterns.com/patterns/Carousel
 </video> -->
 Video de la simulación:
 <!--[![Simulación](https://img.youtube.com/vi/Cgf6Xp6AKSw/hqdefault.jpg)](https://youtu.be/Cgf6Xp6AKSw)-->
-https://github.com/YarasAtomic/DIU/blob/f78d052acd4dd9e0ed03fca1f41337a81e8ecd92/P3/simulacion.mp4
+<!--https://github.c
+
+https://github.com/YarasAtomic/DIU/assets/61023374/ff5f7eea-52cb-43e4-b2aa-be6725107660
+
+om/YarasAtomic/DIU/blob/f78d052acd4dd9e0ed03fca1f41337a81e8ecd92/P3/simulacion.mp4-->
 
 ## Paso 4. Evaluación 
 
