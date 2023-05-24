@@ -200,7 +200,8 @@ Carrusel de imágenes: https://ui-patterns.com/patterns/Carousel
   <source src="P3/simulacion.mp4" type="video/mp4">
 </video> -->
 Video de la simulación:
-[![Simulación](https://img.youtube.com/vi/Cgf6Xp6AKSw/hqdefault.jpg)](https://youtu.be/Cgf6Xp6AKSw)
+<!--[![Simulación](https://img.youtube.com/vi/Cgf6Xp6AKSw/hqdefault.jpg)](https://youtu.be/Cgf6Xp6AKSw)-->
+https://github.com/YarasAtomic/DIU/blob/master/P3/simulacion.mp4
 
 ## Paso 4. Evaluación 
 
