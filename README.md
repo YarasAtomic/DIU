@@ -20,7 +20,7 @@ Miembros
 
 ---
 Boceto HI-FI:
->>> https://www.figma.com/proto/6NM0Xleb3hsISxHpgTG1rS/Layout-Hi-Fi-%5BGeneral%5D?node-id=1-2&starting-point-node-id=1%3A2
+>>> [Enlace de Figma](https://www.figma.com/proto/6NM0Xleb3hsISxHpgTG1rS/Layout-Hi-Fi-%5BGeneral%5D?node-id=1-2&starting-point-node-id=1%3A2)
 
 # Proceso de Diseño 
 
@@ -156,40 +156,52 @@ Para calcular la importancia de las tareas dentro de la aplicación, hemos reali
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a Moodboard+Logo
 -----
-
-<img src="P3/moodboard.png">
-
 
 <img src="P3/icono.png" style="width:4rem">
 
->>>El icono se ha diseñado usando inkscape. Se ha utilizado una resolución 1024x1024, dado su alto nivel de densidad y su proporción estandar. Este icono sirve en multiples entornos, como redes sociales, o publicidad. Dispone de solo 2 colores (uno es el blanco), lo cual hace que sea facil cambiarlos y adaptarlos a mas situaciones.
+>>> El icono se ha diseñado usando inkscape. Se ha utilizado una resolución 1024x1024, dado su alto nivel de densidad y su proporción estandar. Este icono sirve en multiples entornos, como redes sociales, o publicidad. Dispone de solo 2 colores (uno es el blanco), lo cual hace que sea facil cambiarlos y adaptarlos a mas situaciones.
+
+<img src="P3/moodboard.png">
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-
 
 <img src="P3/landing_page.jpeg">
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Botones: https://m1.material.io/components/buttons.html#buttons-button-types
-Filtros: https://ui-patterns.com/patterns/LiveFilter
-https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-filtering/#sidebar
-Registro de cuenta: https://ui-patterns.com/patterns/AccountRegistration
-Calendario: https://ui-patterns.com/patterns/CalendarPicker
-Carrusel de imágenes: https://ui-patterns.com/patterns/Carousel
+- [Botones](https://m1.material.io/components/buttons.html#buttons-button-types)
+- [Filtros 1](https://ui-patterns.com/patterns/LiveFilter)
+- [Filtros 2](https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-filtering/#sidebar)
+- [Registro de cuenta](https://ui-patterns.com/patterns/AccountRegistration)
+- [Calendario](https://ui-patterns.com/patterns/CalendarPicker)
+- [Carrusel de imágenes](https://ui-patterns.com/patterns/Carousel)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
+#### Itinerarios (Comunidad)
+
 <img src="P3/itinerarios.jpeg">
+
+#### Tour
+
 <img src="P3/lista_tour.jpeg">
 <img src="P3/tour.jpeg">
+
+#### Recomendaciones
+
 <img src="P3/recomendaciones.png">
+
+#### Viajero
+
 <img src="P3/viajero.jpeg">
+
+#### Ayuda+Quiénes somos
+
 <img src="P3/ayuda.jpeg">
 <img src="P3/quienessomos.png">
 
@@ -204,8 +216,8 @@ Video de la simulación:
 <!--https://github.com/YarasAtomic/DIU/blob/f78d052acd4dd9e0ed03fca1f41337a81e8ecd92/P3/simulacion.mp4-->
 
 https://github.com/YarasAtomic/DIU/assets/61023374/ff5f7eea-52cb-43e4-b2aa-be6725107660
-## Paso 4. Evaluación 
 
+## Paso 4. Evaluación 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
