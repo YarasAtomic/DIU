@@ -42,8 +42,8 @@ Por último, el footer y el header permite viajar directamente a nuestra página
 
 Esta parte muestra los diseños para la sección de Itinerarios (Comunidad):
 
-**1. Lista de itinerarios con filtro:** se muestra como un *grid* de cartas en el que cada itinerario contiene una pequeña descripción y algunos de los datos más relevantes indicados (creador, fecha del itinerario, tipo de itinerario, número de participantes y un botón para apuntarse).
-**2. Creación de un itinerario:** se ofrece un formulario para rellenar los campos que describan el itinerario junto con un mapa para marcar la ruta.
+1. **Lista de itinerarios con filtro:** se muestra como un *grid* de cartas en el que cada itinerario contiene una pequeña descripción y algunos de los datos más relevantes indicados (creador, fecha del itinerario, tipo de itinerario, número de participantes y un botón para apuntarse).
+2. **Creación de un itinerario:** se ofrece un formulario para rellenar los campos que describan el itinerario junto con un mapa para marcar la ruta.
 
 <img src="itinerarios.jpeg">
 
