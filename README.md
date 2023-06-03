@@ -221,9 +221,9 @@ https://github.com/YarasAtomic/DIU/assets/61023374/ff5f7eea-52cb-43e4-b2aa-be672
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
+Se presenta la página web de una empresa que ofrece talleres de cerámica para realizar para todo tipo de personas. Permite ver ejemplos de las actividades y la cerámica. También permite ver cómo trabajan, además de ofrecer reservas para los talleres. Diferencia a los usuarios por nivel de conocimiento en la artesanía. Además, incluye una tienda que ofrece la posibilidad de comprar productos de forma online.
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+[Enlace al GitHub analizado](https://github.com/AlvaroRodriguezGallardo/DIU)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -253,12 +253,22 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+En general la página presenta un diseño agradable que hace que los usuarios se sientan cómodos navegando por ella, además, la simplicidad y el hecho de contar con pocas páginas que pueden entrelazar mucho el contenido ayuda a que los usuarios realicen las operaciones deseadas de una forma rápida, fácil e intuitiva.
 
+Sin embargo, esta simplicidad puede ponerse en contra cuando el usuario busca algo más de información sobre ciertos elementos del sitio.
 
+Recomendaciones
 
->>> Valoración personal 
-
+Las siguientes recomendaciones las hemos extraído de las opiniones de los diferentes usuarios así como de la experiencia propia y el análisis en profundidad de la página web:
+ - Cambiar el nombre de ‘TALLER’ de la barra de búsqueda para evitar confusiones, en nuestro caso, inicialmente no entendíamos si se refería al lugar donde se realizan las actividades o a las actividades en sí.
+ - El nombre de la página web no aparece en la landing page.
+ - Los iconos de las redes sociales se cortan (a veces)
+ - El título del icono de la cesta varía el color según la página
+ - Los títulos de cada subpágina, tiene un estilo distinto (mayúsculas, negrita, tamaños). Además de que solo la página de tienda tiene un icono.
+ - Unificar las fuentes empleadas, especialmente entre la Landing Page y el resto de la web. Resaltar, además, que en la página de inicio se emplea una fuente para las opiniones que no se emplea en ningún otro sitio de la página.
+ - Corregir el alineamiento de distintos elementos: secciones de menús desplegables, del texto de la landing page y de secciones dentro de la misma página (galería y página principal). Para mejorar la presentación.
+ - El estilo de la página web no es uniforme, la barra superior tiene esquinas redondeadas, mientras que el resto de menús no las tienen, excepto los botones, que además tienen un borde negro.
+ - Añadir algunas páginas de información adicional para los productos en las que se pueda consultar en más detalle el proceso de fabricación, el tiempo que tiene y otros datos que pueden ser interesantes para aquellas personas que buscan el lado más instructivo de la página. Y, en especial, se recomienda añadir una página de información para los talleres, para conocer el programa detallado de cada actividad, el número de sesiones, la duración del taller…
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
