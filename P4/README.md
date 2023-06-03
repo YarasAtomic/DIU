@@ -41,7 +41,7 @@ Se ha pedido a los usuarios que realicen estas acciones para comprobar si son ca
 
 Finalmente, se ha realizado un análisis en mayor detalle de la opción **A**, donde se describe la funcionalidad principal diseñada, junto con una descripción de las opiniones obtenidas de los usuarios a partir del *Test SUS*, describimos, además, la metodología empleada al realizarlos. También se ofrece en el documento una recopilación de las recomendaciones obtenidas de los usuarios y de nuestra experiencia personal al observar con detenimiento la aplicación.
 
-Toda esta información se puede obtener en [este documento](P4/P4_UsabReport_Artesania_Nazari_doneby_DIU2_DUNNO.pdf).
+Toda esta información se puede obtener en [este documento](P4_UsabReport_Artesania_Nazari_doneby_DIU2_DUNNO.pdf).
 
 ### Conclusiones
 
