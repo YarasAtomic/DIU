@@ -253,11 +253,13 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
+#### Report
+
 En general la página presenta un diseño agradable que hace que los usuarios se sientan cómodos navegando por ella, además, la simplicidad y el hecho de contar con pocas páginas que pueden entrelazar mucho el contenido ayuda a que los usuarios realicen las operaciones deseadas de una forma rápida, fácil e intuitiva.
 
 Sin embargo, esta simplicidad puede ponerse en contra cuando el usuario busca algo más de información sobre ciertos elementos del sitio.
 
-Recomendaciones
+#### Recomendaciones
 
 Las siguientes recomendaciones las hemos extraído de las opiniones de los diferentes usuarios así como de la experiencia propia y el análisis en profundidad de la página web:
  - Cambiar el nombre de ‘TALLER’ de la barra de búsqueda para evitar confusiones, en nuestro caso, inicialmente no entendíamos si se refería al lugar donde se realizan las actividades o a las actividades en sí.
