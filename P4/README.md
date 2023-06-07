@@ -12,7 +12,7 @@ Para realizar los test se ha buscado usuarios reales que evalúen ambas páginas
 
 ### Tareas realizadas
 
-Para evaluar el diseño se han elegido algunas opciones que se permiten realizar en la opción **A**:
+Para evaluar el diseño se han elegido algunas opciones que se permiten realizar en la opción **B**:
 - Comprar un producto.
 - Reservar un taller según el propio nivel de la persona.
 - Realizar una visita virtual.
@@ -47,6 +47,6 @@ Toda esta información se puede obtener en [este documento](P4_UsabReport_Artesa
 
 En esta práctica hemos realizado el A/B Testing a dos opciones de diseño para dos aplicaciones diferentes, esto nos ha permitido observar las ideas de otros grupos así como detectar los errores que hemos podido cometer en nuestro propio diseño. En cualquier caso, hemos podido obtener algunas conclusiones en conjunto de ambas páginas con la ayuda de diferentes usuarios a través del *Test SUS*.
 
-En cuanto a la página de artesanía, en general, presenta un diseño agradable que hace que los usuarios se sientan cómodos navegando por ella, esto no ha sido un problema tampoco para nuestro diseño, sin embargo, la simplicidad y el hecho de contar con pocas páginas que pueden entrelazar mucho el contenido ayuda a que los usuarios realicen las operaciones deseadas de una forma rápida, fácil e intuitiva, lo que si que puede proporcionar una ventaja de la opción **A** frente a la **B**.
+En cuanto a la página de artesanía, en general, presenta un diseño agradable que hace que los usuarios se sientan cómodos navegando por ella, esto no ha sido un problema tampoco para nuestro diseño, sin embargo, la simplicidad y el hecho de contar con pocas páginas que pueden entrelazar mucho el contenido ayuda a que los usuarios realicen las operaciones deseadas de una forma rápida, fácil e intuitiva, lo que si que puede proporcionar una ventaja de la opción **B** frente a la **A**.
 
 Sin embargo, esta simplicidad puede ponerse en contra cuando el usuario busca algo más de información sobre ciertos elementos del sitio. De este modo, es importante encontrar el equilibrio entre cantidad de información y simplicidad de las operaciones.
