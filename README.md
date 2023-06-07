@@ -8,10 +8,14 @@ Proyecto:
 >>> Where2go
 
 Descripción:
->>> Una web que ofrece la posibilidad de crear tus propios itinerarios de ativadades por Granada y compartirlos. A parte, incluye sus propias actividades y un detallado sistema de recomendaciones
+>>> Una web clásica de reserva de tours por la ciudad pero que, además, ofrece la posibilidad de crear tus propios itinerarios de ativadades por Granada y compartirlos. Toda esta funcionalidad se integra junto a un detallado sistema de recomendaciones para elegir fácilmente la actividad que mejor se adapta a tu situación.
 
 Logotipo:
+
 <img src="P3/icono.png" style="width:4rem">
+
+Boceto HI-FI:
+>>> [Enlace de Figma](https://www.figma.com/proto/6NM0Xleb3hsISxHpgTG1rS/Layout-Hi-Fi-%5BGeneral%5D?node-id=1-2&starting-point-node-id=1%3A2)
 
 Miembros
  * :bust_in_silhouette:  Pablo Quesada Rojo [@pabloqr](https://github.com/pabloqr)
@@ -19,21 +23,27 @@ Miembros
  * :bust_in_silhouette:  Guillermo Medialdea Burgos [@YarasAtomic](https://github.com/YarasAtomic)
 
 ---
-Boceto HI-FI:
->>> [Enlace de Figma](https://www.figma.com/proto/6NM0Xleb3hsISxHpgTG1rS/Layout-Hi-Fi-%5BGeneral%5D?node-id=1-2&starting-point-node-id=1%3A2)
 
-# Proceso de Diseño 
+# Proceso de Diseño
 
-## Paso 1. UX Desk Research & Analisis 
+A lo largo de este documento vamos a analizar diferentes opciones existentes en la Web, observando sus puntos fuertes y sus debilidades. De esta forma, tomaremos las mejores ideas y añadiremos una propuesta personal para construir una aplicación con un diseño que sea llamativo, útil y accesible a los usuarios. También analizaremos el trabajo realizado por otro grupo de compañeros comparando ambas opciones.
 
-### ![Método UX](img/Competitive.png) 1.a Competitive Analysis
+## Paso 1. UX Desk Research & Analisis
 
-Comparamos la web proporcionada [Free Tour Granada](https://freetour-granada.com/) con:
+En este paso, nos vamos a centrar en una página web con un diseño mejorable, para ello, crearemos *personas* y escenarios que se asemejen lo máximo posible a la realidad y que nos van a ayudar a realizar un análisis detallado de usabilidad de todos los elementos e interacciones que nos permite ejecutar esta web.
+
+El objetivo de esta sección es ponernos en el lugar de los usuarios que acceden al sitio para no cometer los mismos errores. Un elemento importante para esta tarea son los *[empathy map](https://www.interaction-design.org/literature/article/empathy-map-why-and-how-to-use-it)*.
+
+![Método UX](img/Competitive.png) 1.a Competitive Analysis
+---
+
+Comenzamos con una comparación de la web proporcionada [Free Tour Granada](https://freetour-granada.com/) con la competencia:
 - [Granada Tours](https://granadatours.com.es/): se trata de una opción que, como la proporcionada es mejorable en algunos de sus aspectos.
 - [Yoorney - Granada](https://toursgratis.com/granada): se trata de una opción algo mejor que la proporcionada, pero que también tiene algunos aspectos mejorables.
 - [Civitatis - Granada](https://www.civitatis.com/es/granada/): se trata de una opción mucho mejor que la proporcionada, con muchas más opciones y una funcionalidad mejor implementada.
 
-### ![Método UX](img/Persona.png) 1.b Persona
+![Método UX](img/Persona.png) 1.b Persona
+---
 
 Se han creado diferentes perfiles de persona, lo que permite analizar con una mayor profundidad la funcionalidad de la web.
 
@@ -62,9 +72,8 @@ Está totalmente dedicado a su trabajo y, por ello, viaja a España para descone
 
 <!-- img src="P1/persona_3.png" -->
 
+![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ---
-
-### ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 
 En las historias de usuario se han tratado casos prototípicos según los perfiles de las personas creadas.
 
@@ -93,9 +102,8 @@ De este modo, su objetivo es poder realizar el proceso en su idioma nativo y con
 
 <!-- img src="P1/journey_map_3.jpeg" -->
 
+![Método UX](img/usabilityReview.png) 1.d Usability Review
 ---
-
-### ![Método UX](img/usabilityReview.png) 1.d Usability Review
 
 En nuestro análisis, la web obtiene una puntuación de **58 - Moderate**, que se puede consultar en el [PDF](P1/usability_review_general.pdf) donde se incluyen comentarios a las valoraciones.
 
@@ -108,70 +116,72 @@ Pese a ello, el aspecto visual es correcto y el botón de contacto es bastante v
 
 En resumen, la página puede presentar algunos puntos positivos, sin embargo, la gran cantidad de errores de diseño y complicación de los procesos que realiza el usuario hacen que la experiencia se vea muy perjudicada.
 
+Se puede consultar más información y los análisis más detallados en el directorio de la [Práctica 1](https://github.com/YarasAtomic/DIU/tree/master/P1).
+
 ---
 
 ## Paso 2. UX Design  
 
+En este paso, comenzamos nuestro diseño, aportando las ideas principales que se incluirán en nuestra página web, recopilando los mejores aspectos de las webs analizadas, los peores y las ideas nuevas que se incluirán. También propondremos la estructura de la web y realizaremos los primeros bocetos de las principales páginas que se incluirán.
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ---
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-En el trabajo realizado en la práctica anterior, hemos descubierto que elementos de una aplicación pueden considerarse críticos por parte de los usuarios, y que elementos son los que los desarrolladores dejan mas de lado. Esto es aplicable, al tipo de servicio que ofrece la aplicación, que suelen ser bastante similares y poco novedosos.
-
+Con el trabajo realizado en la parte anterior, hemos descubierto qué elementos de una aplicación pueden considerarse críticos por parte de los usuarios, y qué elementos son los que los desarrolladores dejan de lado. Todo esto es aplicable al tipo de servicio que ofrece nuestra aplicación. En la siguienre matriz se ven más claras todas estas ideas.
 
 <img src="P2/malla_receptora.png">
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
-----
+---
 
-Where2Go es una web que pretende acercar Granada a las personas ofreciendo una gran variedad de tours.
-Como caracteristica destacable, Where2Go ofrece a las personas la oportunidad de realizar actividades y compartirlas con el resto de personas con el objetivo de realizar ocio alternativo y de forma social.
-Además la web incluirá un sistema de recomendaciones personalizadas faciles de usar y administrar.
+Aquí presentamos nuestra aplicación: ***Where2Go*** es una web que pretende acercar Granada a las personas ofreciendo una gran variedad de tours.
+Como característica destacable, ***Where2Go*** ofrece a las personas la oportunidad de realizar actividades y compartirlas con el resto de la comunidad de usuarios con el objetivo de realizar ocio alternativo y de forma social. Además la web incluye un sistema de recomendaciones personalizadas fáciles de usar y administrar, especialmente, gracias al sistema de gestión de *viajeros* (usuarios).
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
------
+---
 
-Para calcular la importancia de las tareas dentro de la aplicación, hemos realizado una Task Matrix, ya que recoge una gran cantidad de información usando pocos parametros. Además de que permite facilmente ordenar la importancia de los elementos.
+Para calcular la importancia de las tareas dentro de la aplicación, hemos realizado un *Task Matrix* que recoge una gran cantidad de información usando pocos parámetros. En este *Task Matrix* hemos seleccionado las funcionalidades que se pretenden implementar en la aplicación y las hemos asociado a la probabilidad que hay de que un usuario con el perfil indicado (en la columna superior) haga uso de ella. Esto nos permite ordenar estas tareas según la importancia que los usuarios le dan para priorizar las más relevantes.
 
 <img src="P2/matriz_tareas.png">
 
-
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
-----
+---
 
+Aquí presentamos la estructura que tendrá la web, explicando la funcionalidad que implementa cada sección.
 
 <img src="P2/labelling.png">
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
------
+---
+
+Finalmente, realizamos los primeros bocetos de las páginas más relevantes, especialmente, de aquellas que tienen más relevancia según el *Task Analysis*.
 
 <img src="P2/wireframe0.png">
 
+En este apartado se muestran tan sólo algunos bocetos, en concreto de la sección *recomendaciones* y *sobre nosotros*, el resto y un informe más detallado de todos los pasos se puede encontrar en el directorio de la [Práctica 1](https://github.com/YarasAtomic/DIU/tree/master/P2).
+
+---
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
-
 ![Método UX](img/moodboard.png) 3.a Moodboard+Logo
------
+---
 
 <img src="P3/icono.png" style="width:4rem">
 
->>> El icono se ha diseñado usando inkscape. Se ha utilizado una resolución 1024x1024, dado su alto nivel de densidad y su proporción estandar. Este icono sirve en multiples entornos, como redes sociales, o publicidad. Dispone de solo 2 colores (uno es el blanco), lo cual hace que sea facil cambiarlos y adaptarlos a mas situaciones.
+>>> El icono se ha diseñado usando *inkscape*. Se ha utilizado una resolución 1024x1024, dado su alto nivel de densidad y su proporción estandar. Este icono sirve en multiples entornos, como redes sociales, o publicidad. Dispone tan sólo de 2 colores (uno es el blanco), lo cual hace que sea fácil cambiarlos y adaptarlos a mas situaciones.
 
 <img src="P3/moodboard.png">
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
-----
+---
 
 <img src="P3/landing_page.jpeg">
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
-----
+---
 
 - [Botones](https://m1.material.io/components/buttons.html#buttons-button-types)
 - [Filtros 1](https://ui-patterns.com/patterns/LiveFilter)
@@ -181,7 +191,7 @@ Para calcular la importancia de las tareas dentro de la aplicación, hemos reali
 - [Carrusel de imágenes](https://ui-patterns.com/patterns/Carousel)
 
 ![Método UX](img/mockup.png)  3.d Mockup
-----
+---
 
 #### Itinerarios (Comunidad)
 
@@ -206,7 +216,7 @@ Para calcular la importancia de las tareas dentro de la aplicación, hemos reali
 <img src="P3/quienessomos.png">
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
+---
 
 <!-- <video width="320" height="240" controls>
   <source src="P3/simulacion.mp4" type="video/mp4">
@@ -220,19 +230,21 @@ https://github.com/YarasAtomic/DIU/assets/61023374/ff5f7eea-52cb-43e4-b2aa-be672
 ## Paso 4. Evaluación 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
-----
+---
+
 Se presenta la página web de una empresa que ofrece talleres de cerámica para realizar para todo tipo de personas. Permite ver ejemplos de las actividades y la cerámica. También permite ver cómo trabajan, además de ofrecer reservas para los talleres. Diferencia a los usuarios por nivel de conocimiento en la artesanía. Además, incluye una tienda que ofrece la posibilidad de comprar productos de forma online.
 
 [Enlace al GitHub analizado](https://github.com/AlvaroRodriguezGallardo/DIU)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
-----
+---
+
 <img src="P4/users.jpg">
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
-----
+---
 
 Testing del prototipo A (Where2Go)
 
@@ -243,7 +255,7 @@ Testing del prototipo B (Artesanía Nazarí)
 <img src="P4/testingB.jpg">
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
-----
+---
 
 #### Report
 
@@ -268,7 +280,7 @@ Las siguientes recomendaciones las hemos extraído de las opiniones de los difer
 
 
 >>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
+>>> ---
 
 >>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
 
