@@ -1,4 +1,4 @@
-## DIU - Practica 1: Revisión de Usabilidad, entregables
+## DIU - Practica 1: Revisión de Usabilidad
 
 ### Empathy Map
 
