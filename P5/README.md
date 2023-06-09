@@ -54,3 +54,13 @@ Vamos, ahora, a ver los resultados para el test realizado para la opción **B**:
 <img src="StaticHeatMap_5_( 2s )p2_AN.jpg">
 <img src="StaticHeatMap_6_( 4s )p2_AN.jpg">
 <img src="StaticHeatMap_7_( 0s )p2_AN.jpg">
+
+Recordamos que para este caso se ha pedido a los usuarios que naveguen con libertad por la página y, después accedan a la sección de compras para adquirir un producto.
+
+En esta ocasión, podemos observar cómo en la *Landing Page* el usuario se fija inicialmente en la imagen que abarca gran parte de la página y, después, en el texto más grande y que es más llamativo.
+Durante el período que pasa en la página principal, se centra en el menú superior y en la zona de comentarios (hay que tener en cuenta que la zona de presentación del sitio no tiene texto, lo que puede hacer que el usuario lo deje pasar).
+La página *Quiénes somos* arroja un resultado similar, el usuario se centra en la parte superior dado que los cuadros donde se encuentran las descripciones no contienen texto.
+En la página de la galería, destaca, sobre todo, el filtro y los botones. A continuación, el usuario pasa a la página de selección del taller, donde se centra en el menú superior, en el formulario y en la sección inferior, donde se puede comprobar la disponibilidad del taller.
+Finalmente, accede a la sección de la tienda, donde el usuario se fija en los diferentes productos y en la zona del buscador en la parte superior. En cuanto a la *Cesta*, destaca la zona central donde se encuentran los productos seleccionados y, de nuevo, la parte superior de la página.
+
+En general, vemos cómo, para ambas páginas, los usuarios se centran en los elementos más destacados como títulos, imágenes y zonas con color.
