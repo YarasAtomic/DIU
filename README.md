@@ -331,3 +331,8 @@ Se puede consultar más información en el directorio de la [Práctica 5](https:
 
 ## Conclusión final / Valoración de las prácticas
 
+Estas prácticas, como todo, han tenido sus puntos positivos y sus puntos negativos. En general han sido bastante interesantes desde el punto de vista práctico, dado el número de elementos abarcados y temas tratados sobre una misma temática. Sin embargo, un problema que hemos visto es la falta de organización en algunas etapas del curso, dado que se cambiaba de fecha las entregas, descolocando al resto y, sobre todo, al verse afectadas por varios días festivos consecutivos en los que se hubiese requerido cierta explicación. Además, otro problema que nos ha surgido es la confusión por las diferencias en las explicaciones que se daban, siendo diferentes, en muchos casos, entre lo que se pone en GitHub, lo que explican los guiones de cada práctica y lo que cada profesor explicaba (con diferencias entre lo que se decía en las clases teaórics y lo que se decía en las prácticas).
+
+Finalmente, como punto negativo, hemos sentido que, en ocasiones, el temario de teoría y el contenido de las prácticas iban descompasados (normalmente la teoría ha ido por detrás de las prácticas), lo cual ha podido generar algo de confusión.
+
+Por otro lado, sí que nos ha parecido interesante construir (diseñar) nuestro propio proyecto, de forma guiada, centrándonos especialmente en el punto de vista del cliente que, en muchas ocasiones, se deja de lado y provoca resultados de peor calidad.
