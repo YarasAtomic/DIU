@@ -295,7 +295,7 @@ Las siguientes recomendaciones las hemos extraído de las opiniones de los difer
 
 Se puede consultar más información en el directorio de la [Práctica 4](https://github.com/YarasAtomic/DIU/tree/master/P4).
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+## Paso 5. Eye Tracking
 
 En este paso final, realizamos un neuvo test con usuarios que nos da otro parámetro que evalua la calidad de un sitio web. En este caso, obtenemos un mapa de calor de las dos opciones: nos permite detectar cuáles son las zonas en las que los usuarios se centran más, de manera que podemos determinar si ocurre como se esperaba o si hay elementos que destacan y no deberían.
 
