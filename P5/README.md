@@ -8,13 +8,8 @@ Por otro lado, para el caso **B** (Artesanía Nazarí) se ha propuesto a los usu
 
 ### Recabado de usuarios
 
-Para este test, se ha pedido los usuarios que realizaron el *test SUS* una tarea para medir qué zonas son las que más miran. Estos usuarios son:
-
-- **Juan**, un estudiante curioso. Tiene experiencia en internet, suele leer las cosas y hacerlo todo con pausa. Si algo está explicado con texto, mejor.
-- **Miguel Ángel**, es un estudiante, con interés pero sin ganas de dedicarle tiempo a indagar. Si los pasos para realizar una tarea no los ve a la primera, los puede dejar sin hacer. Tiene experiencia con internet y con manejo de dispositivos.
-- **Nieves**, se trata de una funcionaria que busca un entretenimiento en un taller de cerámica. A la vez que se ve atraída por poder adquirir algunos productos que pueda usar de decoración. Tiene una experiencia media-baja en tecnologías, buscando una forma sencilla de apuntarse a una actividad.
-- **Víctor**, se trata de una persona curiosa que busca aprender algo nuevo, aprender a crear elementos de cerámica o, simplemente, conocer cómo es el proceso para su creación es su objetivo.
-- **Paulina**, tiene poca experiencia en internet y en la reserva de actividades, por tanto los pasos a seguir tienen que estar bastante claros, si no está todo descrito no realizará la actividad.
+Para este test, se ha pedido a un nuevo usuario una tarea para medir qué zonas son las que más mira:
+- **Luisa**, una filóloga entre 15 y 30 años, la cual cuenta con experiencia intermedia en internet. Al ser bastante aventurera no tiene miedo de registrar toda la página hasta realizar la tarea encomendada.
 
 ### Análisis de datos
 
@@ -31,7 +26,7 @@ https://github.com/YarasAtomic/DIU/assets/126351137/933ce645-302c-429b-99c3-42dc
 
 Como podemos ver, el patrón que se genera pasa por las zonas de la pantalla con la información más llamativa y, después a aquellas zonas con más texto, el usuario comprobamos que primero se centra en el menú, los títulos y zonas principales y, después, se va desplazando a aquellas zonas con parte de explicación que le permitan completar su tarea.
 
-Recordamos que en este caso se ha pedido a los usuarios que accedan a la sección de ayuda donde tienen que encontrar el formulario de contacto para enviarlo.
+Recordamos que en este caso se ha pedido a la usuaria que acceda a la sección de ayuda donde tiene que encontrar el formulario de contacto para enviarlo.
 
 En la página principal, comienza por el menú superior y, después se desplaza hacia abajo pasando por las tarjetas con información, para acabar en el pie de la página, donde se fija en los títulos de las secciones hasta que encuentra el de *Ayuda* y accede a él.
 Después, en la nueva página, se fija en la parte superior y, a continuación, en las dos tarjetas que se presentan. Dado que la primera es la que busca, podemos ver cómo la segunda pasa un poco desapercibida.
@@ -61,7 +56,7 @@ Vamos, ahora, a ver los resultados para el test realizado para la opción **B**:
 <img src="p2StaticHeatMap_10_( 0s )_AN.jpg">
 <img src="p2StaticHeatMap_12_( 2s )_AN.jpg">
 
-Recordamos que para este caso se ha pedido a los usuarios que naveguen con libertad por la página y, después accedan a la sección de compras para adquirir un producto.
+Recordamos que para este caso se ha pedido a la usuaria que navegue con libertad por la página y, después acceda a la sección de compras para adquirir un producto.
 
 En esta ocasión, podemos observar cómo en la *Landing Page* el usuario se fija inicialmente en la imagen que abarca gran parte de la página y, después, en el texto más grande y que es más llamativo.
 Durante el período que pasa en la página principal, se centra en el menú superior y en la zona de comentarios (hay que tener en cuenta que la zona de presentación del sitio no tiene texto, lo que puede hacer que el usuario lo deje pasar).
