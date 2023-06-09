@@ -39,27 +39,27 @@ Finalmente, en la última página, vemos que el usuario se centra en las tarjeta
 
 Vamos, ahora, a ver los resultados para el test realizado para la opción **B**:
 
-<img src="P5/p1StaticHeatMap_0_( 1s )_AN.jpg">
-<img src="P5/p1StaticHeatMap_1_( 1s )_AN.jpg">
-<img src="P5/p1StaticHeatMap_3_( 1s )_AN.jpg">
-<img src="P5/p1StaticHeatMap_4_( 1s )_AN.jpg">
-<img src="P5/p1StaticHeatMap_6_( 2s )_AN.jpg">
-<img src="P5/p1StaticHeatMap_7_( 2s )_AN.jpg">
-<img src="P5/p1StaticHeatMap_8_( 0s )_AN.jpg">
-<img src="P5/p1StaticHeatMap_11_( 2s )_AN.jpg">
-<img src="P5/p1StaticHeatMap_12_( 3s )_AN.jpg">
-<img src="P5/p1StaticHeatMap_13_( 2s )_AN.jpg">
-<img src="P5/p2StaticHeatMap_0_( 1s )_AN.jpg">
-<img src="P5/p2StaticHeatMap_1_( 3s )_AN.jpg">
-<img src="P5/p2StaticHeatMap_2_( 1s )_AN.jpg">
-<img src="P5/p2StaticHeatMap_3_( 7s )_AN.jpg">
-<img src="P5/p2StaticHeatMap_4_( 1s )_AN.jpg">
-<img src="P5/p2StaticHeatMap_5_( 5s )_AN.jpg">
-<img src="P5/p2StaticHeatMap_7_( 2s )_AN.jpg">
-<img src="P5/p2StaticHeatMap_8_( 3s )_AN.jpg">
-<img src="P5/p2StaticHeatMap_9_( 2s )_AN.jpg">
-<img src="P5/p2StaticHeatMap_10_( 0s )_AN.jpg">
-<img src="P5/p2StaticHeatMap_12_( 2s )_AN.jpg">
+<img src="p1StaticHeatMap_0_( 1s )_AN.jpg">
+<img src="p1StaticHeatMap_1_( 1s )_AN.jpg">
+<img src="p1StaticHeatMap_3_( 1s )_AN.jpg">
+<img src="p1StaticHeatMap_4_( 1s )_AN.jpg">
+<img src="p1StaticHeatMap_6_( 2s )_AN.jpg">
+<img src="p1StaticHeatMap_7_( 2s )_AN.jpg">
+<img src="p1StaticHeatMap_8_( 0s )_AN.jpg">
+<img src="p1StaticHeatMap_11_( 2s )_AN.jpg">
+<img src="p1StaticHeatMap_12_( 3s )_AN.jpg">
+<img src="p1StaticHeatMap_13_( 2s )_AN.jpg">
+<img src="p2StaticHeatMap_0_( 1s )_AN.jpg">
+<img src="p2StaticHeatMap_1_( 3s )_AN.jpg">
+<img src="p2StaticHeatMap_2_( 1s )_AN.jpg">
+<img src="p2StaticHeatMap_3_( 7s )_AN.jpg">
+<img src="p2StaticHeatMap_4_( 1s )_AN.jpg">
+<img src="p2StaticHeatMap_5_( 5s )_AN.jpg">
+<img src="p2StaticHeatMap_7_( 2s )_AN.jpg">
+<img src="p2StaticHeatMap_8_( 3s )_AN.jpg">
+<img src="p2StaticHeatMap_9_( 2s )_AN.jpg">
+<img src="p2StaticHeatMap_10_( 0s )_AN.jpg">
+<img src="p2StaticHeatMap_12_( 2s )_AN.jpg">
 
 Recordamos que para este caso se ha pedido a los usuarios que naveguen con libertad por la página y, después accedan a la sección de compras para adquirir un producto.
 
