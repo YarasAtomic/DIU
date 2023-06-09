@@ -272,7 +272,7 @@ Testing del **prototipo B** (Artesanía Nazarí)
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ---
 
-Para este apartado se ha preparado un [documento](P4/P4_UsabReport_Artesania_Nazari_doneby_DIU2_DUNNO.pdf) en el que se analiza todo el diseño y en el que se extraen las conclusiones obtenidas del cuestionario y las diferentes pruebas realizadas por los usuarios. Aquí recopilamos lo más relevante de este análisis.
+Para este apartado se ha preparado un [documento](P4/P4_UsabReport_DIU3_LosEpsilonDelta_doneby_DIU2_DUNNO.pdf) en el que se analiza todo el diseño y en el que se extraen las conclusiones obtenidas del cuestionario y las diferentes pruebas realizadas por los usuarios. Aquí recopilamos lo más relevante de este análisis.
 
 #### Report
 
