@@ -160,28 +160,40 @@ Finalmente, realizamos los primeros bocetos de las páginas más relevantes, esp
 
 <img src="P2/wireframe0.png">
 
-En este apartado se muestran tan sólo algunos bocetos, en concreto de la sección *recomendaciones* y *sobre nosotros*, el resto y un informe más detallado de todos los pasos se puede encontrar en el directorio de la [Práctica 1](https://github.com/YarasAtomic/DIU/tree/master/P2).
+En este apartado se muestran tan sólo algunos bocetos, en concreto de la sección *recomendaciones* y *sobre nosotros*, el resto y un informe más detallado de todos los pasos se puede encontrar en el directorio de la [Práctica 2](https://github.com/YarasAtomic/DIU/tree/master/P2).
 
 ---
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
+En este paso, concluimos el diseño de la página web, de forma que presentamos las características distintivas de nuestro sitio a través del *Moodboard* y, por otro lado, incluimos los diseños finales de las diferentes secciones a partir de los bocetos realizados en el paso anterior.
+
 ![Método UX](img/moodboard.png) 3.a Moodboard+Logo
 ---
 
+>>> El icono se ha diseñado usando *inkscape*. Se ha utilizado una resolución 1024x1024, dado su alto nivel de densidad y su proporción estandar.
+
+Este icono sirve en multiples entornos, como redes sociales, o publicidad. Dispone tan sólo de 2 colores (uno es el blanco), lo cual hace que sea fácil cambiarlos y adaptarlos a mas situaciones.
+
 <img src="P3/icono.png" style="width:4rem">
 
->>> El icono se ha diseñado usando *inkscape*. Se ha utilizado una resolución 1024x1024, dado su alto nivel de densidad y su proporción estandar. Este icono sirve en multiples entornos, como redes sociales, o publicidad. Dispone tan sólo de 2 colores (uno es el blanco), lo cual hace que sea fácil cambiarlos y adaptarlos a mas situaciones.
+En el *Moodboard* se define la marca de la web, el nombre, los colores que se van a emplear, indicando cómo se usarán en el texto, el logo, con diferentes variaciones para diferentes formatos en la página. También se incluye el lema que se empleará y las diferentes fuentes y tamaños de fuente que se emplearán a lo largo del sitio.
+
+En este *Moodboard* también se incluyen algunas imágenes de inspiración y comentarios de posibles usuarios del sistema.
 
 <img src="P3/moodboard.png">
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+![Método UX](img/landing-page.png) 3.b Landing Page
 ---
+
+La *Landing Page* es la página que verán en primer lugar los usuarios cuando accedan al sitio, de forma que presenta las principales actividades que se pueden realizar en el sistema de la forma más llamativa posible para el usuario.
 
 <img src="P3/landing_page.jpeg">
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ---
+
+En este apartado hemos recopilado algunas de las indicaciones y patrones que dictan el diseño de sistemas en la actualidad y que hemos implementado en nuestro diseño:
 
 - [Botones](https://m1.material.io/components/buttons.html#buttons-button-types)
 - [Filtros 1](https://ui-patterns.com/patterns/LiveFilter)
@@ -192,6 +204,8 @@ En este apartado se muestran tan sólo algunos bocetos, en concreto de la secci�
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ---
+
+Finalmente, mostramos los diseños finales para la aplicación que serán accesibles a los usuarios. Se dividen en las diferentes secciones que contiene (y que se especificaron en el *labelling* de la Práctica 2:
 
 #### Itinerarios (Comunidad)
 
@@ -218,16 +232,15 @@ En este apartado se muestran tan sólo algunos bocetos, en concreto de la secci�
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 ---
 
-<!-- <video width="320" height="240" controls>
-  <source src="P3/simulacion.mp4" type="video/mp4">
-</video> -->
 Video de la simulación:
-<!--[![Simulación](https://img.youtube.com/vi/Cgf6Xp6AKSw/hqdefault.jpg)](https://youtu.be/Cgf6Xp6AKSw)-->
-<!--https://github.com/YarasAtomic/DIU/blob/f78d052acd4dd9e0ed03fca1f41337a81e8ecd92/P3/simulacion.mp4-->
 
 https://github.com/YarasAtomic/DIU/assets/61023374/ff5f7eea-52cb-43e4-b2aa-be6725107660
 
-## Paso 4. Evaluación 
+Se puede consultar un informe más detallado de todos estos aspectos en el directorio de la [Práctica 3](https://github.com/YarasAtomic/DIU/tree/master/P3).
+
+## Paso 4. Evaluación
+
+En este paso, tomaremos un diseño de otro grupo de compañeros y lo analizaremos a través del *cuestionario SUS*, este cuestionario permite medir de forma universal la percepción de usabilidad de un sistema desde el punto de vista de los usuarios. De esta forma, estos van a ser una parte importante en este análisis y son de los que extraemos las conclusiones para evaluar el diseño. Además, compararemos nuestro propio diseño con el asignado.
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ---
@@ -236,26 +249,30 @@ Se presenta la página web de una empresa que ofrece talleres de cerámica para 
 
 [Enlace al GitHub analizado](https://github.com/AlvaroRodriguezGallardo/DIU)
 
-
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ---
 
-<img src="P4/users.jpg">
+Se han seleccionado cinco usuarios con diferentes perfiles que nos proporcionen una vista más global de todo el sistema, son los que se muestran a continuación:
 
+<img src="P4/users.jpg">
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ---
 
-Testing del prototipo A (Where2Go)
+Para realizar el *cuestionario SUS* se ha pedido a los usuarios que realicen una serie de tareas en el sistema, de esta manera, pueden decidir mejor cuáles son los puntos positivos y negativos de la aplicación y que les permite responder de una forma más objetiva a las cuestiones *SUS*.
+
+Testing del **prototipo A** (Where2Go)
 
 <img src="P4/testingA.jpg">
 
-Testing del prototipo B (Artesanía Nazarí)
+Testing del **prototipo B** (Artesanía Nazarí)
 
 <img src="P4/testingB.jpg">
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ---
+
+Para este apartado se ha preparado un [documento](P4/P4_UsabReport_Artesania_Nazari_doneby_DIU2_DUNNO.pdf) en el que se analiza todo el diseño y en el que se extraen las conclusiones obtenidas del cuestionario y las diferentes pruebas realizadas por los usuarios. Aquí recopilamos lo más relevante de este análisis.
 
 #### Report
 
@@ -274,39 +291,35 @@ Las siguientes recomendaciones las hemos extraído de las opiniones de los difer
  - Unificar las fuentes empleadas, especialmente entre la Landing Page y el resto de la web. Resaltar, además, que en la página de inicio se emplea una fuente para las opiniones que no se emplea en ningún otro sitio de la página.
  - Corregir el alineamiento de distintos elementos: secciones de menús desplegables, del texto de la landing page y de secciones dentro de la misma página (galería y página principal). Para mejorar la presentación.
  - El estilo de la página web no es uniforme, la barra superior tiene esquinas redondeadas, mientras que el resto de menús no las tienen, excepto los botones, que además tienen un borde negro.
- - Añadir algunas páginas de información adicional para los productos en las que se pueda consultar en más detalle el proceso de fabricación, el tiempo que tiene y otros datos que pueden ser interesantes para aquellas personas que buscan el lado más instructivo de la página. Y, en especial, se recomienda añadir una página de información para los talleres, para conocer el programa detallado de cada actividad, el número de sesiones, la duración del taller…
+ - Añadir algunas páginas de información adicional para los productos en las que se pueda consultar en más detalle el proceso de fabricación, el tiempo que tiene y otros datos que pueden ser interesantes para aquellas personas que buscan el lado más instructivo de la página. Y, en especial, se recomienda añadir una página de información para los talleres, para conocer el programa detallado de cada actividad, el número de sesiones, la duración del taller...
+
+Se puede consultar más información en el directorio de la [Práctica 4](https://github.com/YarasAtomic/DIU/tree/master/P4).
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
+En este paso final, realizamos un neuvo test con usuarios que nos da otro parámetro que evalua la calidad de un sitio web. En este caso, obtenemos un mapa de calor de las dos opciones: nos permite detectar cuáles son las zonas en las que los usuarios se centran más, de manera que podemos determinar si ocurre como se esperaba o si hay elementos que destacan y no deberían.
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>> ---
+Caso **A**:
 
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
+https://github.com/YarasAtomic/DIU/assets/126351137/46eb53a3-263e-48bf-a41e-b56c1883bef0
 
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
+Caso **B**:
 
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
+<img src="P4/StaticHeatMap_0_( 4s )_AN.jpg">
+<img src="P4/StaticHeatMap_1_( 1s )_AN.jpg">
+<img src="P4/StaticHeatMap_2_( 1s )_AN.jpg">
+<img src="P4/StaticHeatMap_3_( 1s )_AN.jpg">
+<img src="P4/StaticHeatMap_4_( 0s )_AN.jpg">
+<img src="P4/StaticHeatMap_7_( 1s )_AN.jpg">
+<img src="P4/StaticHeatMap_8_( 0s )_AN.jpg">
+<img src="P4/StaticHeatMap_9_( 2s )_AN.jpg">
+<img src="P4/StaticHeatMap_0_( 4s )p2_AN.jpg">
+<img src="P4/StaticHeatMap_1_( 1s )p2_AN.jpg">
+<img src="P4/StaticHeatMap_2_( 1s )p2_AN.jpg">
+<img src="P4/StaticHeatMap_4_( 1s )p2_AN.jpg">
+<img src="P4/StaticHeatMap_5_( 2s )p2_AN.jpg">
+<img src="P4/StaticHeatMap_6_( 4s )p2_AN.jpg">
+<img src="P4/StaticHeatMap_7_( 0s )p2_AN.jpg">
 
 ## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
-
-
-
-
-
 
