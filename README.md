@@ -321,5 +321,7 @@ Caso **B**:
 <img src="P5/StaticHeatMap_6_( 4s )p2_AN.jpg">
 <img src="P5/StaticHeatMap_7_( 0s )p2_AN.jpg">
 
+Se puede consultar más información en el directorio de la [Práctica 5](https://github.com/YarasAtomic/DIU/tree/master/P5).
+
 ## Conclusión final / Valoración de las prácticas
 
