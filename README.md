@@ -305,21 +305,21 @@ https://github.com/YarasAtomic/DIU/assets/126351137/46eb53a3-263e-48bf-a41e-b56c
 
 Caso **B**:
 
-<img src="P4/StaticHeatMap_0_( 4s )_AN.jpg">
-<img src="P4/StaticHeatMap_1_( 1s )_AN.jpg">
-<img src="P4/StaticHeatMap_2_( 1s )_AN.jpg">
-<img src="P4/StaticHeatMap_3_( 1s )_AN.jpg">
-<img src="P4/StaticHeatMap_4_( 0s )_AN.jpg">
-<img src="P4/StaticHeatMap_7_( 1s )_AN.jpg">
-<img src="P4/StaticHeatMap_8_( 0s )_AN.jpg">
-<img src="P4/StaticHeatMap_9_( 2s )_AN.jpg">
-<img src="P4/StaticHeatMap_0_( 4s )p2_AN.jpg">
-<img src="P4/StaticHeatMap_1_( 1s )p2_AN.jpg">
-<img src="P4/StaticHeatMap_2_( 1s )p2_AN.jpg">
-<img src="P4/StaticHeatMap_4_( 1s )p2_AN.jpg">
-<img src="P4/StaticHeatMap_5_( 2s )p2_AN.jpg">
-<img src="P4/StaticHeatMap_6_( 4s )p2_AN.jpg">
-<img src="P4/StaticHeatMap_7_( 0s )p2_AN.jpg">
+<img src="P5/StaticHeatMap_0_( 4s )_AN.jpg">
+<img src="P5/StaticHeatMap_1_( 1s )_AN.jpg">
+<img src="P5/StaticHeatMap_2_( 1s )_AN.jpg">
+<img src="P5/StaticHeatMap_3_( 1s )_AN.jpg">
+<img src="P5/StaticHeatMap_4_( 0s )_AN.jpg">
+<img src="P5/StaticHeatMap_7_( 1s )_AN.jpg">
+<img src="P5/StaticHeatMap_8_( 0s )_AN.jpg">
+<img src="P5/StaticHeatMap_9_( 2s )_AN.jpg">
+<img src="P5/StaticHeatMap_0_( 4s )p2_AN.jpg">
+<img src="P5/StaticHeatMap_1_( 1s )p2_AN.jpg">
+<img src="P5/StaticHeatMap_2_( 1s )p2_AN.jpg">
+<img src="P5/StaticHeatMap_4_( 1s )p2_AN.jpg">
+<img src="P5/StaticHeatMap_5_( 2s )p2_AN.jpg">
+<img src="P5/StaticHeatMap_6_( 4s )p2_AN.jpg">
+<img src="P5/StaticHeatMap_7_( 0s )p2_AN.jpg">
 
 ## Conclusión final / Valoración de las prácticas
 
